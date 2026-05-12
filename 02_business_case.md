@@ -12,6 +12,8 @@ Aus Nervosität. Tugend wäre zu viel gesagt.
 
 Ich will vorbereitet wirken. Joachim ist dabei aus meiner Sicht nur eine Nebenrolle. Hauptsächlich will ich Frank beeindrucken. Wer aus der Assistentenrolle herauswill, muss irgendwann zeigen, dass er nicht nur Termine koordiniert, sondern Themen tragen kann.
 
+Das klingt in meinem Kopf besser als Ehrgeiz. Ehrgeiz klingt nach Menschen, die in Mitarbeitergesprächen zu lange über Potenzial reden. Ich nenne es lieber Verantwortung. Oder Lernchance. Oder Sichtbarkeit, wenn ich ehrlich genug bin und niemand zuhört.
+
 Frank hat mich am Vortag mit jener Beiläufigkeit in diese Budgetrunde geschickt, mit der er andere Menschen gern in Termine schickt, die er selbst nur ungern klären will.
 
 "Setz dich mal mit Joachim zusammen", hatte er gesagt. "Wenn wir für nächstes Jahr Geld sehen wollen, brauchen wir etwas Belastbares."

@@ -301,9 +301,9 @@ Ich warte.
 
 "Du baust die Klammer um alle kommerziellen Themen", sagt Frank. "Du koordinierst die Annahmen. Du entscheidest, was in die Rohfassung kommt. Wenn du Joachim zurückhaben willst, dann arbeitet er für dein Arbeitspaket."
 
-"Joachim arbeitet nicht für mich. Er ist Abteilungsleiter hier und ich bin nur ein kleines Licht."
+"Joachim arbeitet nicht für mich. Er ist Abteilungsleiter hier, und ich bin nur ein kleines Licht."
 
-"Dann brauchst du ihn offenbar nicht dringend", entgegnet Frank mir.
+"Dann brauchst du ihn offenbar nicht dringend", sagt Frank.
 
 Ich höre mich zu schnell antworten. "Doch."
 
@@ -311,9 +311,11 @@ Frank nickt, als hätte ich endlich an der richtigen Stelle unterschrieben.
 
 "Gut", sagt er. "Dann frag ihn. Aber eins ist klar: Er liefert dir zu. Keine zweite Linie zu Hans, keine Nebenschauplätze, kein Korrektiv im Projekt mit eigenem Mandat. Wenn du seine Perspektive willst, übernimmst du auch die Verantwortung dafür, was daraus wird."
 
-Das klingt fair. Deswegen ist Frank so erfolgreich:
+Das klingt fair. Deswegen ist Frank so erfolgreich: Er gibt einem nicht nur einen Auftrag. Er gibt einem das Gefühl, an diesem Auftrag gewachsen zu sein.
 
-Frank gibt Joachim nicht zurück ins allgemeine Projekt. Er gibt ihn mir. Damit wird aus Joachims Widerspruch kein Gegengewicht mehr zu Frank, sondern eine Zulieferung zu meiner Unterlage. Wenn ich ihn richtig einbaue, hilft er. Wenn ich ihn falsch einbaue, ist es mein Fehler. Und wenn ich ihn gar nicht einbaue, wird niemand sagen können, Frank habe mir die fachliche Perspektive verweigert.
+Ich spüre es sofort. Dieses kleine, warme Ziehen unter dem Brustbein, das keine Freude sein will, weil Freude in diesem Moment unanständig wäre. Joachim wird nicht zurückgeholt. Er wird mir zugeordnet. Und trotzdem gefällt mir, dass Frank mir zutraut, mit ihm umzugehen.
+
+Damit wird aus Joachims Widerspruch kein Gegengewicht mehr zu Frank, sondern eine Zulieferung zu meiner Unterlage. Wenn ich ihn richtig einbaue, hilft er. Wenn ich ihn falsch einbaue, ist es mein Fehler. Und wenn ich ihn gar nicht einbaue, wird niemand sagen können, Frank habe mir die fachliche Perspektive verweigert.
 
 "Er wird das nicht mögen", sage ich.
 
@@ -1321,13 +1323,23 @@ Das Gefühl hält ungefähr so lange, wie Outlook braucht, um die Mail aus dem P
 
 Dann ist die Datei weg.
 
+Ich ziehe die Hand von der Maus, als hätte der Klick eine Temperatur hinterlassen.
+
 Ich bleibe sitzen. Die automatische Beleuchtung über meinem Schreibtisch geht aus. Nur mein Monitor ist noch hell, weil ich die Maus hin und her bewege, ohne etwas zu tun. Auf dem Bildschirm steht wieder die leere Inbox, dieses kleine, helle Versprechen, dass Arbeit irgendwann fertig sein könnte, wenn nur niemand mehr antwortet.
 
 Drei Minuten später erscheint Franks Name.
 
 _Danke. Genau das brauche ich für morgen früh._
 
-Ich lese den Satz, freue mich und entscheide mich heimzugehen.
+Ich lese den Satz.
+
+Zuerst freue ich mich.
+
+Dann schiebe ich die Freude zur Seite, weil sie unpassend ist. Danach hole ich sie wieder zurück, weil sie trotzdem da ist.
+
+Frank braucht meine Arbeit. Nicht irgendwann. Morgen früh.
+
+Ich entscheide mich heimzugehen.
 
 Erst am nächsten Morgen fällt mir auf, dass Frank nichts vom Workshop geschrieben hat.
 
@@ -1601,6 +1613,12 @@ Ich sehe auf mein altes Telefon. Der Bildschirm hat seit Monaten einen Sprung in
 Yvonne nickt, als sei das die vernünftigste Antwort der Welt, und geht weiter.
 
 Ich bleibe stehen und merke, dass Organisationen Anerkennung manchmal genau dann verteilen, wenn man sie am wenigsten genießen kann.
+
+Natürlich will ich das größere iPhone.
+
+Nicht wegen des Telefons, sage ich mir sofort. Wegen der Rolle. Wegen des Signals. Wegen der Tatsache, dass irgendwo in einer Tabelle nun offenbar steht, dass ich zu denen gehöre, die so etwas bekommen.
+
+Dann denke ich an Marta und Nora, an den Workshop und an Joachims Namen, den ich aus der Mail gelöscht habe. Das alte Telefon liegt plötzlich schwerer in meiner Hand als vorher.
 
 ::: Theorie
 **Was in der Szene passiert ist**: Der Protagonist hat eine Rohfassung als Arbeitsstand verstanden. Frank hat dieselbe Datei als Richtung nach oben genutzt. Marta und Nora hören darin keine offene Abstimmung, sondern eine bereits wirksame Festlegung ihrer Beiträge. Erst als Nora die Botschaft in ihre vier Seiten zerlegt, kann die Gruppe von gegenseitiger Rechtfertigung zu konkreten Unterstützungsbedarfen wechseln: Sponsor-Review, Marktzugang, Marketing, Architektur, Legal, Finance und sichtbare Annahmenverantwortung.

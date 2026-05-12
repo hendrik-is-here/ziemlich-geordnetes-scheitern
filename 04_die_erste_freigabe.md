@@ -366,7 +366,11 @@ Joachim sieht mich an. So als hätte er gerade beobachtet, wie schnell man auf d
 
 Ich weiß, dass er es sieht. Das Schlimme ist: Ich sehe es auch. Und trotzdem gefällt mir, wie viel leichter der neue Begriff durch den Raum geht.
 
-Ich schreibe es trotzdem auf. Wenn wir auf jede Gefühlsregung von Joachim eingehen, dokumentieren wir morgen noch sauber, warum wir eigentlich gar nichts tun können.
+Ich schreibe es trotzdem auf.
+
+Der Stift fühlt sich plötzlich zu leicht an. Ich kann eine Grenze verschieben, ohne dass es aussieht wie eine Entscheidung. Ein anderes Wort, ein ruhigerer Begriff, ein Zettel, der weniger wehtut. So einfach geht das.
+
+Wenn wir auf jede Gefühlsregung von Joachim eingehen, dokumentieren wir morgen noch sauber, warum wir eigentlich gar nichts tun können, sage ich mir. Es klingt vernünftig. Es klingt auch nach jemandem, der gerade froh ist, dass Vernunft und Opportunismus denselben Satz benutzen können.
 
 So entsteht unsere erste Roadmap.
 

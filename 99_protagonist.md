@@ -21,6 +21,9 @@ Schwäche:
 
 - Glaubt zunächst, dass Probleme logisch und strukturiert lösbar sind
 - Sucht klare Ursache-Wirkung-Beziehungen in einem politischen System
+- Will Anerkennung von Menschen, deren Mechanik er zugleich durchschaut
+- Fürchtet, austauschbar zu bleiben, und verwechselt deshalb Sichtbarkeit mit Reife
+- Rechtfertigt opportunistische Entscheidungen zunächst als Pragmatismus, weil er sich selbst nicht als Karrieristen sehen möchte
 - Will unter Druck zu schnell Ordnung durch Argumente und Kontrolle herstellen
 - Reagiert in Stresssituationen gereizter, als er sich selbst eingesteht
 - Profitiert von einem System, das er gleichzeitig kritisch beobachtet
@@ -43,6 +46,8 @@ Entwicklung im Buch:
 
 - Vom analytischen Beobachter zum Systemversteher
 - Erkennt: Organisationen sind keine Maschinen, sondern Macht- und Anreizsysteme
+- Erkennt schrittweise, dass Karriere und moralische Klarheit nicht gleichzeitig maximiert werden können
+- Lernt, dass es nicht neutral ist, den Raum zu betreten, den andere verlassen mussten
 - Lernt, dass „rationale Lösungen“ oft an unsichtbaren Strukturen scheitern
 - Lernt, dass Führungsstärke nicht nur aus Analyse, sondern oft aus Selbstbeherrschung besteht
 - Lernt, dass Zustimmung ohne Sponsor im Konzern kaum etwas wert ist
@@ -68,6 +73,8 @@ Typischer Gedanke:
 - "Das ergibt alles keinen Sinn – oder ich sehe den Sinn noch nicht."
 - "Wenn ich es besser formuliere, wird es vielleicht wahr genug."
 - "Wenn ich jetzt widerspreche, bin ich draußen. Wenn ich nicht widerspreche, bin ich drin."
+- "Ich wollte nur sauber arbeiten. Warum fühlt es sich dann an, als hätte ich jemanden verraten?"
+- "Vielleicht ist das Erwachsenwerden im Konzern: sich für das Richtige schämen und für das Nützliche gelobt werden."
 - "Eine Zahl ist erst dann gefährlich, wenn jemand anfängt, nach ihr zu arbeiten."
 - "Rot wäre ehrlicher. Gelb ist anschlussfähiger."
 - "Es wurde leichter, als Eddy weg war. Genau das hätte mich misstrauisch machen müssen."

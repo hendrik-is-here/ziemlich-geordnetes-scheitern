@@ -384,9 +384,19 @@ Investitionsbedarf.
 
 Ich hasse, wie schnell diese Wörter andocken.
 
+Noch mehr hasse ich, dass sie sich nach Gelegenheit anfühlen.
+
+Joachim verliert gerade Sichtbarkeit. Marta zieht sich zurück. Und ich sitze da und merke, wie ein Teil von mir schon an der Datei arbeitet, die aus diesem Verlust meinen nächsten Auftrag macht.
+
 Frank sieht jetzt direkt zu mir. "Du hast den Business Case zusammengezogen. Du verstehst die Zahlenlogik, und du kannst das so aufbereiten, dass Hans damit arbeiten kann. Ich brauche von dir einen ersten Entwurf für die wirtschaftliche Klammer."
 
 "Bis wann?" frage ich nur.
+
+Nicht: Warum ich.
+
+Nicht: Warum nicht Joachim.
+
+Nur: bis wann.
 
 "Freitag."
 
@@ -455,6 +465,12 @@ Frank sieht mich an, als hätte ich eine naive, aber nicht ganz uninteressante F
 Er geht weiter.
 
 Ich bleibe kurz stehen und sehe zurück zum Besprechungsraum. Durch die Glastür sehe ich Joachim noch immer am Whiteboard. Er steht vor den großen Worten, die Frank geschrieben hat, und wirkt zum ersten Mal in diesem Projekt kleiner als der Raum.
+
+Ich könnte zurückgehen.
+
+Ich tue es nicht.
+
+Stattdessen folge ich Frank, weil man Türen nicht lange offen hält, wenn man endlich auf der richtigen Seite steht.
 
 ::: Theorie
 
