@@ -6,7 +6,7 @@ Die Datei heißt harmlos.
 
 _Plattform_BusinessCase_WorkingDraft_v03.xlsx_
 
-Das ist eine dieser Benennungen, mit denen man sich im Konzern selbst beruhigt. _Working Draft_ klingt nach Vorsicht. _v03_ klingt nach Fortschritt. Und weil das Wort _Business Case_ irgendwo zwischen beidem steht, kann jeder später behaupten, er habe es genau so verstanden, wie es ihm gerade nützt.
+Mit solchen Benennungen beruhigt man sich im Konzern selbst. _Working Draft_ klingt nach Vorsicht. _v03_ klingt nach Fortschritt. Und weil das Wort _Business Case_ irgendwo zwischen beidem steht, kann jeder später behaupten, er habe es genau so verstanden, wie es ihm gerade nützt.
 
 Ich öffne die Datei um 8:12 Uhr.
 
@@ -44,17 +44,17 @@ _adfg_
 
 Manchmal hilft es mir einfach, nicht mit einer leeren Datei starten zu müssen, und ich tippe ein paar sinnlose Buchstaben auf der Tastatur. Heute ist keiner dieser Tage. Ich lösche sie wieder.
 
-Ich merke, dass ich keine Ahnung habe, was ich tun soll. Ich starre auf die Zelle.
+Ich habe keine Ahnung, was ich tun soll, und starre auf die Zelle.
 
 Vielleicht hilft langes Anstarren ja, um zu einer Erkenntnis zu gelangen. Nach fünf Minuten weiß ich nur, dass ich die Geschichte großer Erkenntnisse im Zweifel auch nicht belastbar herleiten könnte.
 
 Mittlerweile ist 08:41.
 
-Ich sehe, wie Joachim unten auf dem Hof auf seinen Parkplatz fährt.
+Unten auf dem Hof fährt Joachim auf seinen Parkplatz.
 
 Ich habe immer noch keine Ahnung, wie es weitergehen soll. Also kopiere ich unsere alte Rechnung in die Datei. Ich teile die einzelnen Aspekte auf meine vier Tabellenblätter auf und frage mich, was die Übung hier eigentlich soll. Wir haben die 1,8 Mio. Euro doch schon einmal sauber hergeleitet.
 
-Ich merke, dass ich keine Ahnung habe, wie Joachim das gemacht hatte. Er hatte irgendwie Annahmen verformelt.
+Erst jetzt fällt mir auf, dass ich keine Ahnung habe, wie Joachim das gemacht hatte. Er hatte irgendwie Annahmen verformelt.
 
 Damals hatte mir das gereicht. Ein grober Case, drei Szenarien, ein paar Annahmen, die sichtbar genug waren, um nicht wie reine Fantasie zu wirken. Jetzt reicht es nicht mehr. Hans will keine Plausibilität mehr. Frank braucht eine Richtung. Nora wird nach Pipeline fragen. Marta wird nach Menschen fragen. Und ich sitze vor derselben Zahl und merke, dass sie nicht mehr nur begründet werden muss.
 
@@ -70,7 +70,7 @@ Soweit so gut.
 
 Aber Verkaufsmarge entsteht nicht von selbst.
 
-Ich klicke zurück in die _Umsatzplanung_ und suche die Stelle, an der aus Interesse Geld wird. Auch das hatte Joachim irgendwo verformelt. Ich finde eine Spalte _Anzahl Kunden_, eine Spalte _durchschnittlicher Auftragswert_ und eine Spalte _prozentuale Marge_. Das klingt ordentlich. Es klingt sogar so ordentlich, dass ich einen Moment nicht merke, dass die schwierigste Frage damit nur versteckt wurde.
+Ich klicke zurück in die _Umsatzplanung_ und suche die Stelle, an der aus Interesse Geld wird. Auch das hatte Joachim irgendwo verformelt. Ich finde eine Spalte _Anzahl Kunden_, eine Spalte _durchschnittlicher Auftragswert_ und eine Spalte _prozentuale Marge_. Alles wirkt ordentlich. So ordentlich, dass ich einen Moment nicht merke, wie die schwierigste Frage darin verschwindet.
 
 Wie kommt man zu Kunden?
 
@@ -98,7 +98,7 @@ Dann lösche ich es wieder.
 
 Zehn Prozent ist keine Annahme. Zehn Prozent ist ein Gefühl mit Dezimalformat.
 
-Ich suche in den Messeunterlagen nach Zahlen. In irgendeiner Nachbereitung steht, dass wir auf der letzten Messe zweihundert Leads gesammelt hatten. Das klingt viel, bis man sich erinnert, dass auf Messen jeder als Lead gilt, der länger als acht Sekunden stehen bleibt, seine Visitenkarte abgibt und nicht ausdrücklich sagt, er macht das nur wegen der Kugelschreiber.
+Ich suche in den Messeunterlagen nach Zahlen. In irgendeiner Nachbereitung steht, dass wir auf der letzten Messe zweihundert Leads gesammelt hatten. Viel, bis man sich erinnert, dass auf Messen jeder als Lead gilt, der länger als acht Sekunden stehen bleibt, seine Visitenkarte abgibt und nicht ausdrücklich sagt, er macht das nur wegen der Kugelschreiber.
 
 Ich schreibe:
 
@@ -112,17 +112,17 @@ Status:
 
 _historisch, Qualität unklar_
 
-Das ist der erste Parameter-Eintrag des Morgens, der mir gefällt. Ich weiß, wie gut die Qualität der Schätzung ist und wo sie herkommt.
+Der erste Parameter-Eintrag des Morgens, der mir gefällt: Ich weiß, wie gut die Qualität der Schätzung ist und wo sie herkommt.
 
 Danach rechne ich weiter. Wenn zehn Prozent der Leads zu Opportunities werden, sind es zwanzig. Wenn zwanzig Prozent davon wirklich bestellen, bleiben vier Kunden. Wenn ein Kunde im Schnitt einen Auftragswert von 20 Tausend Euro bringt, dann sind wir bei 80 Tausend Euro. Wenn wir vier Messen pro Jahr besuchen, dann werden es schon 320 Tausend Euro. Immer noch weit weg von unseren 1,8 Millionen. Und ich habe völlig vernachlässigt, dass das Ganze auch noch Zeit braucht. Kein Kunde bestellt am Tag nach der Messe.
 
-Ich sehe wieder aus dem Fenster. Ich habe die Systematik ansatzweise verstanden, aber wie machen wir weiter? Um diesen Umsatz zu machen, brauchen wir Personal, das die Projekte abwickelt, und Infrastruktur, die wir erst aufbauen müssen. Vorher brauchen wir aber den Vertrieb. Und das Produkt haben wir auch noch nicht.
+Wieder schaue ich aus dem Fenster. Ich habe die Systematik ansatzweise verstanden, aber wie machen wir weiter? Um diesen Umsatz zu machen, brauchen wir Personal, das die Projekte abwickelt, und Infrastruktur, die wir erst aufbauen müssen. Vorher brauchen wir aber den Vertrieb. Und das Produkt haben wir auch noch nicht.
 
 Es kommt mir vor wie ein gordischer Knoten an Abhängigkeiten, den ich nicht zerschlagen bekomme.
 
 Joachims Auto steht jetzt auf seinem Parkplatz. Er selbst ist nicht mehr zu sehen.
 
-Das ist unpraktisch.
+Ungünstig.
 
 Da kommt Nora, unsere neue Sales-Leitung, ins Büro. Frank führt sie herum, um sie vorzustellen. Er hatte sich beim letzten Steuerkreis die Freigabe für die Stellenausschreibung geholt und sie dann zügig besetzt, bevor überhaupt jemand davon mitbekam und sein Handeln hätte verhindern können.
 
@@ -130,7 +130,7 @@ Sie kommen an meinen Tisch.
 
 "Das ist er", sagt Frank.
 
-Ich sehe von meiner Tabelle auf. Für einen Moment bin ich unsicher, ob _er_ eine Funktion, eine Warnung oder eine Empfehlung ist.
+Ich schaue von meiner Tabelle auf. Kurz bin ich unsicher, ob _er_ eine Funktion, eine Warnung oder eine Empfehlung ist.
 
 "Der Mann mit dem Business Case", ergänzt Frank.
 
@@ -152,15 +152,15 @@ Nora beugt sich leicht zum Bildschirm. "Was rechnest du?"
 
 "Vermutlich."
 
-"Nein", sagt sie, als hätte ich gerade eine harmlose Schwäche gezeigt, die sie mir großzügig austreiben möchte. "Wirklich. Fang von hinten an. Wenn ihr 1,8 Millionen Ergebnisbeitrag wollt, musst du wissen, wie viel Marge dafür nötig ist. Dann rechnest du rückwärts: Marge, Umsatz, Auftragswert, Kunden, Opportunities, Leads. Dann kannst du rechnen, dass man anderthalb Jahre braucht um aus einem Lead Umsatz zu machen und daraus die Vertriebskosten ableiten."
+"Nein", sagt sie mit der Großzügigkeit einer Person, die eine harmlose Schwäche erkannt hat und sie mir nun austreiben möchte. "Wirklich. Fang von hinten an. Wenn ihr 1,8 Millionen Ergebnisbeitrag wollt, musst du wissen, wie viel Marge dafür nötig ist. Dann rechnest du rückwärts: Marge, Umsatz, Auftragswert, Kunden, Opportunities, Leads. Dann kannst du rechnen, dass man anderthalb Jahre braucht um aus einem Lead Umsatz zu machen und daraus die Vertriebskosten ableiten."
 
 "Also Business Case", sage ich.
 
 Nora schaut wieder auf den Bildschirm. "Wenn du nur zeigen willst, dass es wirtschaftlich interessant sein könnte: ja. Wenn du rückwärts von Ergebnisbeitrag über Marge, Kunden, Opportunities, Laufzeiten und Vertriebskosten rechnest, ist das nicht mehr nur ein Business Case. Dann bist du in der Wirtschaftsplanung."
 
-Nora sagt das alles so, als sei es nicht nur eine Rechnung, sondern eine Einstellungssache. Frank sieht zufrieden aus. So, wie er aussieht, wenn eine neue Person in den Raum kommt und diese sofort in seinem gewünschten Tempo spricht.
+Nora sagt das alles, als ginge es um mehr als eine Rechnung. Frank wirkt zufrieden. So sieht er aus, wenn eine neue Person in den Raum kommt und sofort in seinem gewünschten Tempo spricht.
 
-"Deshalb wollte ich euch kurz zusammenbringen", sagt er. "Wirtschaftsplanung. Das ist... ja, das ist eigentlich genau der richtige Begriff für das, was wir jetzt brauchen." Man merkt, er hat das Wort aufgeschnappt und muss erst einmal probieren, wie er es in seine Story einbetten kann. Es klingt gut, was genau dahinter steht ist da erst einmal zweitrangig.
+"Deshalb wollte ich euch kurz zusammenbringen", sagt er. "Wirtschaftsplanung. Ja, eigentlich genau der richtige Begriff für das, was wir jetzt brauchen." Man merkt, dass er das Wort aufgeschnappt hat und erst einmal probieren muss, wie es in seine Story passt. Es klingt gut. Was genau dahinter steht, ist da zunächst zweitrangig.
 
 Nora zeigt auf meine Zeile mit den zweihundert Leads. "Woher kommt die Zahl?"
 
@@ -180,7 +180,7 @@ Sie tippt mit dem Fingernagel neben den Bildschirm, ohne ihn zu berühren. "Zwei
 
 "Doch. Du hast ein Upper Limit."
 
-Das gefällt mir sofort, obwohl ich noch nicht weiß, ob es gut ist.
+Mir gefällt das sofort, obwohl ich noch nicht weiß, ob es gut ist.
 
 Nora nimmt sich den freien Stuhl neben meinem Schreibtisch, ohne zu fragen. Frank bleibt erst stehen, hört uns ein bisschen zu und sieht dann auf sein Handy. Einen Moment später geht er weiter, ohne ein weiteres Wort zu sagen.
 
@@ -196,13 +196,13 @@ Nora nimmt sich den freien Stuhl neben meinem Schreibtisch, ohne zu fragen. Fran
 
 Ich öffne den Mund und merke, dass ich die Antwort nicht in einer Form habe, die einen Kunden interessieren würde.
 
-Nora lächelt nicht überheblich. Sie wartet nur. Das ist bei Vertriebsleuten, die gut sind, manchmal das Unangenehmste. Sie verkaufen nicht sofort. Sie lassen einen erst die eigene Unschärfe hören. Sie bauen eine Story auf, indem sie einen selbst das Problem beschreiben lassen und einen dann fragen, warum man ihre Lösung dieses Problems eigentlich nicht kaufen will.
+Nora lächelt nicht überheblich. Sie wartet nur. Bei guten Vertriebsleuten ist gerade das manchmal das Unangenehmste. Sie verkaufen nicht sofort. Sie lassen einen erst die eigene Unschärfe hören. Sie bauen eine Story auf, indem sie einen selbst das Problem beschreiben lassen und einen dann fragen, warum man ihre Lösung dieses Problems eigentlich nicht kaufen will.
 
 "Für einen Piloten", sage ich schließlich. "Vielleicht."
 
 "Ein Pilot ist kein Produkt", sagt sie. "Ein Pilot ist der Preis dafür, dass wir gemeinsam lernen."
 
-Nora winkt ab. "Das ist nur Sales. Wenn wir einen Piloten verkaufen, verkaufen wir noch keine Plattform. Wir verkaufen dem Kunden das Recht, früh Einfluss zu nehmen. Und uns verkaufen wir die Chance, etwas Belastbares zu lernen."
+Nora winkt ab. "Nur Sales. Wenn wir einen Piloten verkaufen, verkaufen wir noch keine Plattform. Wir verkaufen dem Kunden das Recht, früh Einfluss zu nehmen. Und uns verkaufen wir die Chance, etwas Belastbares zu lernen."
 
 Ich schreibe mit.
 
@@ -220,7 +220,7 @@ _Pilot = gemeinsames Lernen, kein Produktumsatz_
 
 "Für die Story oder für den Markt?"
 
-Ich sehe zu Franks Büro.
+Mein Blick geht zu Franks Büro.
 
 Nora sieht das natürlich. "Frank wird dir nicht alle Antworten geben können. Wir müssen das selbst herausfinden. Dann fang mit drei an", sagt Nora. "Einer ist Zufall. Zwei sind interessant. Drei kann man als Pattern erzählen."
 
@@ -230,13 +230,13 @@ Nora steht wieder auf. "Schick mir die Umsatzlogik. Ich gebe dir bis morgen eine
 
 "Marktannahmen."
 
-Nora ist dabei aufzustehen: Ich merke, sie will weiter und nicht nur dem Controller dabei helfen den Kopf zwischen seinen Ohren zu finden. 
+Nora ist schon halb im Aufstehen. Sie will weiter und nicht nur dem Controller dabei helfen, den Kopf zwischen seinen Ohren zu finden.
 
 "Danke dir für den Input", höre ich mich sagen. "Ich stelle die Datei entsprechend um und dann können wir eine Simulation auf Basis deiner Zahlen aufbauen. Ich will dich nicht ewig aufhalten, lass uns morgen weitersprechen."
 
 "Immer gern", sagt Nora während sie aufsteht und zum nächsten Schreibtisch geht. Plötzlich ist auch Frank wieder da und stellt Nora jemandem aus dem Qualitätsbereich vor, der so überrascht aufsteht, als habe der Vertrieb bisher nur telefonisch existiert.
 
-Als Nora weg ist, sitze ich wieder vor der Tabelle und komme gefühlt keinen Schritt weiter. Ich merke:
+Als Nora weg ist, sitze ich wieder vor der Tabelle und komme gefühlt keinen Schritt weiter. Die Abhängigkeiten sind nur klarer geworden:
 Ich brauche Nora für die Leads. Ich brauche Marta für die Kosten. Ich brauche Frank für die Richtung. Und ich brauche Joachim für das, was keiner von ihnen mir geben wird: jemanden, der die Rechnung wirklich infrage stellt, die Schwachstellen finden will und sie so auf Herz und Nieren prüft, dass man ihr trauen kann.
 
 Um 10:17 Uhr nehme ich mein Notizbuch und gehe zu Frank.
@@ -249,11 +249,11 @@ Ich bleibe im Türrahmen stehen.
 
 "Ja", sagt er ins Telefon. "Genau. Plattformoption, Kundennachweis, Finanzierungsbedarf. Wir sind dran."
 
-Er legt auf und lächelt, als hätte der Anruf ihm nichts genommen. "Du siehst aus, als hättest du eine Zahl gefunden, der du nicht traust."
+Er legt auf und lächelt. Der Anruf hat ihm nichts genommen. "Du siehst aus, als hättest du eine Zahl gefunden, der du nicht traust."
 
 "Ich traue eher mir nicht."
 
-"Das ist manchmal ein Anfang."
+"Manchmal ist das ein Anfang."
 
 Ich setze mich nicht. Wer in Franks Büro stehen bleibt, kann schneller wieder gehen. Das hat mir Yvonne einmal erklärt, als wäre es eine Brandschutzregel.
 
@@ -269,9 +269,9 @@ Frank bewegt sich nicht. Nur sein Blick wird etwas wacher.
 
 "Er ist aus dem Projekt raus."
 
-"Das ist nicht dasselbe wie weg."
+"Nicht dasselbe wie weg."
 
-"Für die Rechnung schon", sage ich. "Ich kann Leads modellieren. Ich kann Kosten einsammeln. Ich kann Annahmen sichtbar machen. Aber ich sehe nicht, wo eine Zahl nur deshalb plausibel wirkt, weil alle anderen Zellen daneben auch plausibel aussehen."
+"Für die Rechnung schon", sage ich. "Ich kann Leads modellieren. Ich kann Kosten einsammeln. Ich kann Annahmen sichtbar machen. Aber ich erkenne nicht zuverlässig, wo eine Zahl nur deshalb plausibel wirkt, weil alle anderen Zellen daneben auch plausibel aussehen."
 
 Frank geht zu seinem Schreibtisch und nimmt einen Stift auf, ohne etwas aufzuschreiben. "Und Joachim sieht das?"
 
@@ -281,11 +281,11 @@ Frank geht zu seinem Schreibtisch und nimmt einen Stift auf, ohne etwas aufzusch
 
 "Dann soll er es sagen."
 
-Frank legt den Stift wieder hin. "Das ist ja genau der Punkt."
+Frank legt den Stift wieder hin. "Genau der Punkt."
 
 "Nein", sage ich. "Der Punkt ist, dass wir seine Perspektive brauchen, bevor die Folien fertig sind. Nicht erst danach, wenn er wütend genug ist, sie vor dem falschen Publikum zu zerlegen."
 
-Frank sieht mich an. Immerhin: Es ist nicht der Blick, den er Leuten schenkt, die etwas Dummes gesagt haben. Es ist der Blick, den er Leuten schenkt, die etwas Nützliches gesagt haben, das ihm nicht gefällt.
+Frank mustert mich. Immerhin: nicht mit dem Blick, den er Leuten schenkt, die etwas Dummes gesagt haben. Eher mit dem Blick für etwas Nützliches, das ihm nicht gefällt.
 
 "Du willst ihn also wieder im Team haben."
 
@@ -307,11 +307,11 @@ Ich warte.
 
 Ich höre mich zu schnell antworten. "Doch."
 
-Frank nickt, als hätte ich endlich an der richtigen Stelle unterschrieben.
+Frank nickt. Offenbar habe ich endlich an der richtigen Stelle unterschrieben.
 
 "Gut", sagt er. "Dann frag ihn. Aber eins ist klar: Er liefert dir zu. Keine zweite Linie zu Hans, keine Nebenschauplätze, kein Korrektiv im Projekt mit eigenem Mandat. Wenn du seine Perspektive willst, übernimmst du auch die Verantwortung dafür, was daraus wird."
 
-Das klingt fair. Deswegen ist Frank so erfolgreich: Er gibt einem nicht nur einen Auftrag. Er gibt einem das Gefühl, an diesem Auftrag gewachsen zu sein.
+Es klingt fair. Deswegen ist Frank so erfolgreich: Er gibt einem keinen bloßen Auftrag. Er vermittelt einem das Gefühl, an diesem Auftrag gewachsen zu sein.
 
 Ich spüre es sofort. Dieses kleine, warme Ziehen unter dem Brustbein, das keine Freude sein will, weil Freude in diesem Moment unanständig wäre. Joachim wird nicht zurückgeholt. Er wird mir zugeordnet. Und trotzdem gefällt mir, dass Frank mir zutraut, mit ihm umzugehen.
 
@@ -329,9 +329,9 @@ Frank sieht auf sein Handy. "Dann formulier es anders."
 
 "Sag ihm, dass du ihn als Gegengewicht zu mir brauchst."
 
-Das ist so dreist, dass ich fast lachen muss.
+So dreist, dass ich fast lachen muss.
 
-Frank sieht mein Gesicht und hebt die Augenbrauen. "Was?"
+Frank hebt die Augenbrauen. "Was?"
 
 "Nichts."
 
@@ -349,7 +349,7 @@ Ich gehe zurück ins Großraumbüro. Auf meinem Bildschirm wartet die Tabelle. D
 
 Ich schreibe _Wirtschaftsplanung_ oben in den Dateinamen und merke sofort, dass das Wort schwerer ist als _Business Case_.
 
-Ein Business Case kann noch so tun, als ginge es um eine Entscheidung. Wirtschaftsplanung tut das nicht. Sie fragt nicht nur, ob etwas sinnvoll wäre. Sie fragt nach den fiesen Details: wer es wann mit welchen Leuten baut, wer es kauft und welche Arbeit dafür liegen bleibt.
+Ein Business Case kann noch so tun, als ginge es um eine Entscheidung. Wirtschaftsplanung ist unhöflicher. Sie fragt nach den fiesen Details: wer es wann mit welchen Leuten baut, wer es kauft und welche Arbeit dafür liegen bleibt.
 
 Also rufe ich Marta an.
 
@@ -361,7 +361,7 @@ Sie zögert lang genug mit einer Antwort, dass ich merke, wie schlecht der Satz 
 
 "Seit Nora gesagt hat, dass es Wirtschaftsplanung ist."
 
-"Dann richte Nora aus, dass Wörter Arbeit erzeugen. Und stell mir solche Fragen nicht zwischen Tür und Angel. Das ist zu wichtig, um nebenbei geklärt zu werden."
+"Dann richte Nora aus, dass Wörter Arbeit erzeugen. Und stell mir solche Fragen nicht zwischen Tür und Angel. Zu wichtig für nebenbei."
 
 Damit legt sie auf.
 
@@ -381,7 +381,7 @@ Ich hole mir einen Mut-Kaffee. Der hilft leider auch nicht, also sitze ich 30 Mi
 
 Martas Bereich liegt am Rand des Gebäudes, dort, wo der Teppichboden aufhört und der Boden plötzlich so tut, als würde hier noch echte Industrie stattfinden. Es riecht nach warmem Kunststoff, Kaffee und ein wenig nach Öl. Das Labor hat eine Tür mit einem Glasfenster, damit man sieht, wenn jemand verunglückt. Nicht dass das schon mal passiert wäre, aber sicher ist sicher. Darin liegt auf einem Tisch der Demonstrator, umgeben von Kabeln, einem Laptop, einer Kamera und diversen Klebezetteln, auf denen jemand mit einem Filzstift Dinge notiert hat, die für Außenstehende wie Drohungen klingen: _Licht flackert_, _Timeout nach 7 min_, _Aluprofil?_
 
-Marta steht nicht an ihrem Schreibtisch, sondern halb über den Tisch gebeugt. Neben ihr sitzt Eddy auf einem Hocker, die Arme verschränkt, als halte er die Maschine persönlich davon ab, Unsinn zu machen. Auf dem Bildschirm läuft ein Standbild eines Ventils, daneben ein grüner Rahmen, der so überzeugend aussieht, dass man ihn fast für realer hält als das Ventil.
+Marta steht halb über den Tisch gebeugt statt an ihrem Schreibtisch. Neben ihr sitzt Eddy auf einem Hocker, die Arme verschränkt, als halte er die Maschine persönlich davon ab, Unsinn zu machen. Auf dem Bildschirm läuft ein Standbild eines Ventils, daneben ein grüner Rahmen, der fast überzeugender aussieht als das Ventil selbst.
 
 "Ich dachte, du kommst. Was hast du so lang gemacht?", sagt Marta, ohne sich umzudrehen.
 
@@ -405,11 +405,11 @@ Sie sagt es ohne Schärfe. Eher etwas hoffnungslos. Gerade deshalb wirkt es wie 
 
 "Na ja." Ich höre mich selbst und merke, dass _na ja_ im Gespräch mit Marta selten ein guter Anfang ist. "Was es kostet, die Plattform zu bauen."
 
-Marta sieht Eddy an. Eddy hebt kaum merklich die Schultern, als sei er bei der Frage nur sachverständiger Zeuge und nicht bereit, für das Urteil mitzuhaften.
+Marta schaut zu Eddy. Eddy hebt kaum merklich die Schultern. Sachverständiger Zeuge, nicht mit haftbar für das Urteil.
 
 "Was soll deine Plattform können?", fragt Marta.
 
-"Visuelle Qualitätsassistenz", entgegne ich. Es ist wie jedes Mal. Ich komme zur Entwicklung und fühle mich wie der dumme Bittsteller, der auf die gnadenvolle Antwort der ehrwürdigen Chef-Ingenieure angewiesen ist. Brauche ich wirklich jemanden mit mehr Lametta auf der Schulter in diesem Treffen, um Marta zu irgendeiner Aussage zu bewegen?
+"Visuelle Qualitätsassistenz", entgegne ich. Wieder stehe ich in der Entwicklung wie der dumme Bittsteller, angewiesen auf die gnadenvolle Antwort der ehrwürdigen Chef-Ingenieure. Brauche ich wirklich jemanden mit mehr Lametta auf der Schulter in diesem Treffen, um Marta zu irgendeiner Aussage zu bewegen?
 
 Marta legt den Schraubendreher ab. "Wir haben hier einen Messe-Demonstrator. Der kann unter bestimmten Lichtbedingungen ein definiertes Bauteil erkennen und eine Entscheidung visualisieren, die in Teilen vorbereitet ist. Dann haben wir die Idee eines internen Piloten. Der müsste mit echten Daten, echten Prozessabweichungen und echten Werksbedingungen umgehen. Und dann gibt es eine Plattform. Die müsste wartbar sein, dokumentiert, abgesichert, integrierbar für weitere Applikationen, supportfähig und so robust, dass nicht Eddy daneben sitzen muss, damit sie sich benimmt."
 
@@ -435,13 +435,13 @@ Ich blättere eine Seite weiter. "Ich will nicht, dass daraus falsche Zusagen en
 
 Eddy steht auf und geht zum anderen Ende des Tisches, wo er an einem Kabel zieht, das sich weigert, seine Zugehörigkeit zu irgendeiner Ordnung erkennen zu lassen. Er bleibt nah genug, um weiter zuzuhören.
 
-"Das ist Wasserfall", sagt er plötzlich.
+"Wasserfall", sagt er plötzlich.
 
 Marta und ich schauen ihn beide an.
 
 "Bitte?", sagt Marta.
 
-"Na ja." Eddy hält ein Kabel hoch, als könne es seine Aussage belegen. "Er kommt ohne Scope, ohne Architekturentscheidung, ohne Datenlage, ohne Produktdefinition und fragt nach Aufwand. Danach schreibt irgendjemand eine Zahl in Excel, Frank malt daraus einen Meilenstein, Hans liest es als Plan, und in drei Monaten fragt jemand, warum wir nicht geliefert haben. Das ist Wasserfall. Die klassische Management-Version davon: ohne Wasser. Aber jeder hat ein Ziel, selbst wenn es nur in seinem Kopf ist, und am Ende werdet ihr daran gemessen."
+"Na ja." Eddy hält ein Kabel hoch, als könne es seine Aussage belegen. "Er kommt ohne Scope, ohne Architekturentscheidung, ohne Datenlage, ohne Produktdefinition und fragt nach Aufwand. Danach schreibt irgendjemand eine Zahl in Excel, Frank malt daraus einen Meilenstein, Hans liest es als Plan, und in drei Monaten fragt jemand, warum wir nicht geliefert haben. Klassischer Management-Wasserfall. Ohne Wasser. Aber jeder hat ein Ziel, selbst wenn es nur in seinem Kopf ist, und am Ende werdet ihr daran gemessen."
 
 "Wir sind doch agil", sage ich.
 
@@ -468,7 +468,7 @@ Wahrscheinlich stand er sogar in dem Notizbuch, das ich vor lauter Verzweiflung 
 
 Menschen und Zeit sind begrenzt. Umfang ist verhandelbar.
 
-Ich sehe auf mein Notizbuch. "Vielleicht frage ich falsch."
+Ich schaue auf mein Notizbuch. "Vielleicht frage ich falsch."
 
 "Sagen wir so: Es kann nur besser werden", sagt Marta versöhnlich lächelnd.
 
@@ -490,7 +490,7 @@ Eddy hebt die Hand. "Ich bin grundsätzlich gegen meine Abschaffung."
 
 "Das klingt wie ein Einschnitt in meine Machtbasis."
 
-Für einen Moment weicht die Anspannung aus dem Raum. Ich hatte gar nicht gemerkt, wie sehr wir alle den jeweils anderen gerade als Hindernis auf dem eigenen Weg gesehen hatten.
+Die Anspannung weicht kurz aus dem Raum. Ich hatte gar nicht bemerkt, wie sehr wir alle den jeweils anderen gerade als Hindernis auf dem eigenen Weg gesehen hatten.
 
 Marta nimmt mir das Notizbuch aus der Hand und zeichnet drei Kästen untereinander.
 
@@ -504,9 +504,9 @@ _Plattform entscheiden._
 
 "Und?"
 
-"Für die Demo bis zur Messe brauchen wir kurzfristig Eddy und punktuell Lena für Bilddaten. Das ist kein Aufbau. Das ist Schadensbegrenzung mit Beleuchtung."
+"Für die Demo bis zur Messe brauchen wir kurzfristig Eddy und punktuell Lena für Bilddaten. Kein Aufbau. Schadensbegrenzung mit Beleuchtung."
 
-Eddy nickt. "Endlich eine realistische Berufsbezeichnung. Beleuchter." Marta und ich ignorieren ihn. Es ist nicht ganz klar, ob er stört oder hilft. Vermutlich beides.
+Eddy nickt. "Endlich eine realistische Berufsbezeichnung. Beleuchter." Marta und ich ignorieren ihn. Ob er stört oder hilft, bleibt unklar. Vermutlich beides.
 
 "Für Pilotfähigkeit brauchen wir ein kleines festes Team, sonst zerfasert es sofort. Eine Person Bildverarbeitung, eine Person Daten und Schnittstellen, eine Person Prozessintegration. Vermutlich am Anfang auch relativ viel UI/UX-Kapazitäten. Dazu Zugriff auf ein Werk, jemanden aus Qualität und jemanden, der die Entscheidungen priorisiert, wenn die Realität nicht zur Folie passt."
 
@@ -524,7 +524,7 @@ Marta schaut zu Eddy.
 
 Eddy legt das Kabel ab. "Wenn du das Management-tauglich brauchst, schreib: feste Kapazität, variabler Scope. Dann kann Marta sagen, was mit einem kleinen Team in acht bis zwölf Wochen lernbar ist, ohne so zu tun, als wäre danach eine Plattform fertig. Die meisten Teams bei uns sind acht Personen stark. Entwickler allein reichen dir nicht, du brauchst jemanden, der ihnen hilft, arbeitsfähig zu sein. Sonst kommt gar nichts vorwärts."
 
-Ich sehe ihn an. 
+Ich schaue ihn an.
 
 "Was?", sagt Eddy. "Ich kann auch Management."
 
@@ -568,7 +568,7 @@ Ich schreibe schneller.
 
 "Projektbedarf: Kernteam über acht bis zwölf Wochen. Rollen: Bildverarbeitung, Daten und Schnittstellen, Prozessintegration, User Interface, Product Owner und Agile Coach. Unterstützung Werk und Qualität. Ergebnis: belastbare Pilotentscheidung."
 
-Marta liest mit. Sie greift nicht ein. Das ist beruhigend.
+Marta liest mit und greift nicht ein. Beruhigend.
 
 "Und die Plattform?"
 
@@ -583,7 +583,7 @@ Eddy sagt: "Unangenehm ist bei Marta, wenn sie anfängt, freundlich zu protokoll
 Marta sieht ihn an. "Möchtest du etwas beitragen?"
 
 "Ich habe Wasserfall erkannt. Mein Soll ist erfüllt", sagt er und geht sich lieber einen Kaffee holen. 
-Ich merke, dass ich lächle, und höre sofort wieder damit auf, weil die Sache nicht lustig genug ist, um sich darauf auszuruhen. Marta hat mir keinen Aufwand gegeben, wie ich ihn gesucht hatte. Sie hat mir eine andere Art von Planbarkeit gegeben. Keine schöne Zahl, die Frank sofort auf eine Folie ziehen kann. Eher eine Struktur, die erklärt, warum eine schöne Zahl im Moment unseriös wäre.
+Ich lächle und höre sofort wieder damit auf, weil die Sache nicht lustig genug ist, um sich darauf auszuruhen. Marta hat mir keinen Aufwand gegeben, wie ich ihn gesucht hatte. Sie hat mir eine andere Art von Planbarkeit gegeben. Keine schöne Zahl, die Frank sofort auf eine Folie ziehen kann. Eher eine Struktur, die erklärt, warum eine schöne Zahl im Moment unseriös wäre.
 
 "Also", sage ich, "ich formuliere es als Lernpfad. Demo stabilisieren. Pilotfähigkeit herstellen. Danach Plattformentscheidung. Für jeden Schritt: feste Kapazität, variabler Umfang, explizite Annahmen."
 
@@ -599,9 +599,9 @@ Ich merke, dass ich lächle, und höre sofort wieder damit auf, weil die Sache n
 
 Ich schreibe jeden Satz auf.
 
-"Das klingt nicht besonders optimistisch", sage ich.
+"Nicht besonders optimistisch", sage ich.
 
-"Es ist optimistisch", sagt Marta. "Es geht davon aus, dass wir doch noch ehrlich werden können."
+"Doch", sagt Marta. "Es geht davon aus, dass wir noch ehrlich werden können."
 
 Das sitzt.
 
@@ -643,7 +643,7 @@ Auf dem Sideboard stehen zwei Umzugskartons, einer davon offen, darin ein Stapel
 
 "Ich wollte erst prüfen, ob ich die Entwicklungsseite verstanden habe und dann die Zahlen gemeinsam mit dir besprechen."
 
-Nora sieht auf die Uhr, aber nicht unhöflich. So wie jemand, der in seinem Kalender nach einer freien Stelle für Geduld sucht. "Wie schlimm?"
+Nora prüft die Uhr, aber nicht unhöflich. Eher wie jemand, der in seinem Kalender nach einer freien Stelle für Geduld sucht. "Wie schlimm?"
 
 "Marta sagt: feste Kapazität, variabler Umfang. Acht bis zwölf Wochen pro Iteration, ein Team, noch keine Plattformzusage."
 
@@ -657,7 +657,7 @@ Ich setze mich. "Das war ungefähr auch mein Eindruck."
 
 Nora klappt den Laptop auf. "Dann zeig mir mal die bestehende Umsatzplanung."
 
-Ich drehe ihr meinen Bildschirm hin. Die Tabelle sieht inzwischen professioneller aus. Das beruhigt mich nicht mehr. Links stehen _Kontakte_, _qualifizierte Leads_, _Opportunities_, _Pilot_, _Bestellung_. Rechts daneben Conversion-Raten, durchschnittlicher Auftragswert, Marge und ein paar gelbe Zellen, die so tun, als seien sie Vorsicht und nicht nur Angst mit Farbe.
+Ich drehe ihr meinen Bildschirm hin. Die Tabelle wirkt inzwischen professioneller. Das beruhigt mich nicht mehr. Links stehen _Kontakte_, _qualifizierte Leads_, _Opportunities_, _Pilot_, _Bestellung_. Rechts daneben Conversion-Raten, durchschnittlicher Auftragswert, Marge und ein paar gelbe Zellen, die so tun, als seien sie Vorsicht und nicht nur Angst mit Farbe.
 
 Nora liest schnell. Vertriebsleute lesen Tabellen anders als Controller. Controller suchen Fehler in Zahlen. Vertrieb sucht Stellen, an denen man aus einer Zahl eine Opportunity machen kann.
 
@@ -669,17 +669,17 @@ Nora liest schnell. Vertriebsleute lesen Tabellen anders als Controller. Control
 
 "Ich habe Jahr eins, Jahr zwei, Jahr drei."
 
-"Das ist kein Zeitverlauf. Du denkst immer noch in Überschriften."
+"Kein Zeitverlauf. Du denkst immer noch in Überschriften."
 
 Ich will widersprechen, aber nur aus Gewohnheit. Nora hat recht. Meine Jahre sind leere Behälter, in die ich Umsatz schiebe, sobald die Formel ihn braucht.
 
 "Dann hilf mir", sage ich. "Wie lang dauert so etwas im industriellen Umfeld?"
 
-Nora lehnt sich zurück. "Das ist die falsche Frage."
+Nora lehnt sich zurück. "Falsche Frage."
 
 "Schon wieder?" Mein Gespräch mit Marta wiederholt sich vor meinem inneren Auge, nur mit Nora in der Hauptrolle. Hat mich Frank deswegen geholt, damit ich die langatmigen Details von ihm fernhalte?
 
-"Die richtige Frage ist: Was muss passieren, bevor Geld fließen kann?", setzt Nora an, die von meinem inneren Film zum Glück nichts mitbekommen hat.
+"Die richtige Frage lautet: Was muss passieren, bevor Geld fließen kann?", setzt Nora an, die von meinem inneren Film zum Glück nichts mitbekommen hat.
 
 Sie nimmt meinen Stift und zeichnet auf meinem Notizblock einen Zeitstrahl.
 
@@ -723,13 +723,13 @@ Ich schreibe _4-8 Wochen_.
 
 Ich schreibe _2-4 Monate_ und merke, dass meine Tabelle innerlich zu rutschen beginnt.
 
-"Dann Pilotbudget", sagt Nora. "Das ist der Moment, in dem es zum ersten Schwur kommt. Kleine Budgets gehen manchmal schnell. Bis zwanzigtausend Euro kann irgendein Abteilungsleiter uns meist ohne große Gremien freigeben. Industrielle Kunden haben aber Budgetzyklen, Freigabegrenzen, interne Prioritäten. Wenn du Pech hast, ist das Problem echt, aber das Budgetfenster zu."
+"Dann Pilotbudget", sagt Nora. "Da kommt der erste Schwur. Kleine Budgets gehen manchmal schnell. Bis zwanzigtausend Euro kann irgendein Abteilungsleiter uns meist ohne große Gremien freigeben. Industrielle Kunden haben aber Budgetzyklen, Freigabegrenzen, interne Prioritäten. Wenn du Pech hast, ist das Problem echt, aber das Budgetfenster zu."
 
 "Wie lang?"
 
 "Drei bis sechs Monate. Manchmal schneller, wenn es ein Werkleiter wirklich will. Manchmal ein Jahr, wenn das Thema zwischen Bereichen hängt."
 
-Ich schaue auf die Zeitachse und schreibe _6 Monate_. Ich fühle mich, als würde ich Pinocchios Nase messen wollen.
+Ich schaue auf die Zeitachse und schreibe _6 Monate_. Es fühlt sich an, als würde ich Pinocchios Nase messen wollen.
 
 "Dann Pilot", fährt Nora fort. "Wenn Marta acht bis zwölf Wochen für Pilotfähigkeit braucht, heißt das nur, dass wir intern bereit genug sind, um beim Kunden nicht sofort zu scheitern. Beim Kunden selbst brauchst du Installation, Datenzugang, Testbetrieb, Auswertung, Diskussion über Fehlerbilder, Datenschutz, Betriebsrat, Qualität. Je nach Kunde."
 
@@ -741,7 +741,7 @@ Ich schaue auf die Zeitachse und schreibe _6 Monate_. Ich fühle mich, als würd
 
 "Genau. Und die kann schnell sein, wenn der Pilot weh genug tut und gut genug war. Oder sie kann im Einkauf liegen bleiben, bis alle vergessen haben, warum sie dringend war."
 
-Ich schreibe nicht mit. Ich starre nur auf die Linie.
+Ich schreibe nicht mit. Ich starre auf die Linie.
 
 Nora lässt mich einen Moment in meinem Jammer.
 
@@ -775,7 +775,7 @@ Nora schaut zufrieden. "Jetzt wird es eine schematische Pipeline."
 
 "Weil Frank Forecast draus macht, sobald eine Zahl mit einem Quartal danebensteht."
 
-"Nicht nur Frank. Jeder hört das. Quartale sind im Management eine Sprache, die sofort eine Erwartungshaltung weckt. Das ist wie wenn man vor Kindern das Wort Süßigkeiten erwähnt."
+"Nicht nur Frank. Jeder hört das. Quartale sind im Management eine Sprache, die sofort eine Erwartungshaltung weckt. Wie das Wort Süßigkeiten vor Kindern."
 
 Ich muss an Marta denken. Feste Kapazität, variabler Umfang. Bei Nora klingt es ähnlich, nur mit Kunden.
 
@@ -791,7 +791,7 @@ Sie blickt in mein fragendes Gesicht und erkennt, dass sie weiter ausholen muss.
 
 "Messekontakte aus Q1 bilden eine Gruppe. Daraus werden vielleicht in Q2 qualifizierte Leads, in Q3 Opportunities, in Q4 Pilotangebote, im nächsten Jahr Pilotumsatz und vielleicht im Jahr danach Produktumsatz. Wenn du jedes Quartal neue Kontakte erzeugst, überlagern sich diese Gruppen ähnlich wie Wellen. Dann sieht es irgendwann nach kontinuierlichem Umsatz aus. Am Anfang stehen aber erst einmal nur Kosten."
 
-Das ist der Satz, der bei mir alle Alarmglocken klingeln lässt. _Am Anfang stehen aber erst einmal nur Kosten._
+Bei diesem Satz gehen bei mir alle Alarmglocken an. _Am Anfang stehen aber erst einmal nur Kosten._
 
 Ich schreibe ihn in mein Notizbuch und umkreise ihn.
 
@@ -801,7 +801,7 @@ Ich schreibe ihn in mein Notizbuch und umkreise ihn.
 
 "Und die Vertriebskosten", sage ich, "sind dann auch nicht nur eine Prozentzahl vom Umsatz."
 
-Nora sieht mich an, als hätte ich zum ersten Mal an diesem Tag etwas gesagt, das ihr gefällt. "Genau. Nachfassen, Qualifizieren, Reisen, Fachgespräche, Angebotsarbeit, interne Abstimmung, Pilotkonzept. Das passiert alles, bevor du sicher weißt, ob am Ende ein Auftrag kommt."
+Nora sieht mich zum ersten Mal an diesem Tag fast zufrieden an. "Genau. Nachfassen, Qualifizieren, Reisen, Fachgespräche, Angebotsarbeit, interne Abstimmung, Pilotkonzept. Das passiert alles, bevor du sicher weißt, ob am Ende ein Auftrag kommt."
 
 "Also kostet die Pipeline, bevor sie Umsatz bringt."
 
@@ -835,7 +835,7 @@ Nora liest mit und sagt nichts.
 
 "Wenn du vier Messen pro Jahr, laufende Qualifizierung, zwei bis drei Piloten parallel und Follow-up bei mehreren Werken planst, dann sind zwei zu wenig."
 
-Ich sehe auf meine Notiz. "Gerade waren es zwei."
+Ich schaue auf meine Notiz. "Gerade waren es zwei."
 
 "Gerade hast du nach wenigen Großprojekten gefragt. Jetzt redest du von Pipelineaufbau."
 
@@ -851,9 +851,9 @@ Ich streiche die Zwei durch und schreibe _4 FTE Vertrieb/Business Development_. 
 
 "Use Cases, Referenzen, Webinare, Messekampagnen, Kundenpräsentationen, Branchenbeiträge, vielleicht Partnerkommunikation. Sonst rennen deine vier Vertriebler mit Franks Pitch-Folien herum und erklären jedem Kunden etwas anderes."
 
-"Das ist Marketing."
+"Marketing."
 
-"Stimmt", sagt Nora und macht ein Gesicht, als sei ihr gerade eine Kleinigkeit eingefallen. "Mein Fehler."
+"Stimmt", sagt Nora mit dem Gesicht einer Person, der gerade eine Kleinigkeit eingefallen ist. "Mein Fehler."
 
 "Dein Fehler?"
 
@@ -875,17 +875,17 @@ Ich lege den Stift ab. "Vor zwei Minuten waren es zwei Vertriebler."
 
 "Ja."
 
-"Und das ist dir einfach nach und nach eingefallen?"
+"Und das fällt dir einfach nach und nach ein?"
 
-Nora lächelt nicht. Das macht es schlimmer. "Nein. Ich versuche herauszufinden, wo deine Schmerzgrenze liegt."
+Nora lächelt nicht. Schlimmer. "Nein. Ich versuche herauszufinden, wo deine Schmerzgrenze liegt."
 
 "Meine Schmerzgrenze?"
 
 "Deine und Franks. Wenn ich sofort acht sage, schreibst du gar nichts auf oder du machst daraus eine Fußnote. Wenn ich zwei sage, nickst du. Bei vier wirst du unruhig. Bei acht merkst du, dass Vertrieb kein kostenloser Umsatzkanal ist."
 
-"Das ist manipulativ", werfe ich Nora vor.
+"Manipulativ", werfe ich Nora vor.
 
-"Das ist Sales", entgegnet sie entwaffnend.
+"Sales", entgegnet sie entwaffnend.
 
 "Du verkaufst mir gerade Vertriebskosten."
 
@@ -913,17 +913,17 @@ _Jahr 2: Piloten, erste Abschlüsse, Validierung._
 
 _Jahr 3: Skalierung nur bei nachgewiesener Wiederholbarkeit._
 
-"Das klingt vorsichtig", sage ich.
+"Klingt vorsichtig", sage ich.
 
-"Es ist vorsichtig. Es ist trotzdem optimistischer als die meisten industriellen Vertriebszyklen."
+"Ist es auch. Und trotzdem optimistischer als die meisten industriellen Vertriebszyklen."
 
 "Wie viele Kunden brauchen wir?"
 
 "Was soll das Ergebnis sein?"
 
-Ich sehe sie an.
+Ich schaue sie an.
 
-"Das ist deine Lieblingsfrage, oder?"
+"Deine Lieblingsfrage, oder?"
 
 "Es spart viel Ärger, wenn man weiß, wo man hinwill", entgegnet Nora.
 
@@ -935,7 +935,7 @@ Ich sehe sie an.
 
 "Also Up-Selling und Cross-Selling."
 
-Nora lächelt so, als hätte ich ein Wort benutzt, das sie einerseits mag und andererseits niemandem zu früh geben möchte.
+Nora lächelt, weil ich ein Wort benutzt habe, das sie einerseits mag und andererseits niemandem zu früh geben möchte.
 
 "Vorsichtig. Up-Selling heißt: derselbe Kunde kauft mehr. Cross-Selling heißt: anderes Produkt, anderer Use Case, vielleicht anderer Entscheider. Beides klingt in Folien nach Skalierung. In Wirklichkeit heißt es: neue interne Verkaufsarbeit."
 
@@ -953,7 +953,7 @@ Nora nickt.
 
 "Für einen Pilotpreis vielleicht. Aber Pilotumsatz ist kein Produktumsatz. Ein Pilot kann strategisch wertvoll sein und finanziell unattraktiv. Wenn du ihn zu hoch bepreist, kommt keiner rein. Wenn du ihn zu niedrig bepreist, sieht deine Marge schlecht aus und der Kunde gewöhnt sich an Beratung zum Freundschaftspreis."
 
-"Das ist unangenehm."
+"Unangenehm."
 
 "Deshalb heißt es Vertrieb."
 
@@ -961,7 +961,7 @@ Ich ergänze eine Spalte:
 
 _Pilotumsatz getrennt von Produktumsatz._
 
-Nora sieht auf die Uhr. Diesmal ist die Geduldstelle im Kalender offenbar aufgebraucht.
+Nora schaut auf die Uhr. Diesmal ist die Geduldstelle im Kalender offenbar aufgebraucht.
 
 "Schick mir die Datei, wenn du die Zeitachse eingebaut hast. Ich gebe dir keine Zusage auf Zahlen, aber ich kann dir sagen, ob die Logik kaufmännisch vertretbar ist."
 
@@ -983,7 +983,7 @@ Dann schreibe ich in die erste Zeile:
 
 _Umsatz entsteht nicht im Jahr, in dem man ihn braucht._
 
-Ich starre auf den Satz. Er ist wahr. Das macht ihn nicht hilfreich.
+Ich starre auf den Satz. Wahr, aber nicht hilfreich.
 
 Dann färbe ich auch diese Zelle gelb.
 
@@ -991,7 +991,7 @@ In diesem Moment erscheint unten rechts eine neue Teams-Nachricht von Frank.
 
 _Kannst du mir bis 16 Uhr eine kompakte Umsatzkurve schicken? Hans fragt nach einer ersten Indikation._
 
-Ich sehe auf die gelbe Zelle. Dann auf die Nachricht. Dann wieder auf die gelbe Zelle. Kompakt ist ein anderes Wort für: ohne die Dinge, die gerade erst wichtig geworden sind.
+Mein Blick springt von der gelben Zelle zur Nachricht und zurück. Kompakt ist ein anderes Wort für: ohne die Dinge, die gerade erst wichtig geworden sind.
 
 Ich antworte Frank: _Es gibt da ein Problem._
 
@@ -1005,11 +1005,11 @@ Stattdessen steht er zwölf Minuten später vor meinem Schreibtisch. Er trägt s
 
 Ich drehe den Bildschirm ein Stück zu ihm. "Ich habe eher eine Zeitachse."
 
-Frank sieht auf die Tabelle, ohne sich hinzusetzen. Das ist nie ein gutes Zeichen. Wer stehen bleibt, will nicht verstehen, sondern entscheiden.
+Frank beugt sich über die Tabelle, ohne sich hinzusetzen. Kein gutes Zeichen. Wer stehen bleibt, will nicht verstehen, sondern entscheiden.
 
 "Marta sagt, wir brauchen erst einmal acht bis zwölf Wochen, um pilotfähig zu werden und kommen dann Iteration für Iteration langsam weiter vorwärts. Nora sagt, dass Umsatz erst deutlich später kommt. Kontakt, Qualifizierung, Opportunity, Pilot, Rollout. Das verschiebt die Kurve."
 
-Frank nickt einmal, sehr kurz. "Ja. Das ist zu komplex für den Aufsichtsrat."
+Frank nickt einmal, sehr kurz. "Ja. Zu komplex für den Aufsichtsrat."
 
 Ich warte auf den zweiten Satz, der diesen ersten Satz entschärfen soll. Er kommt nicht.
 
@@ -1033,7 +1033,7 @@ Frank sieht mich an: aufmerksam.
 
 "Erklär es mir in einem Satz."
 
-Ich schaue auf meinen Bildschirm, auf die gelbe Zelle, auf die Spalten, die ich gerade erst eingefügt habe. Ein Satz ist für diese Tabelle ungefähr so aussagekräftig wie ein Tinder-Bild für zukünftiges Eheglück. Man sieht etwas. Nur nicht genug.
+Ich schaue auf meinen Bildschirm, auf die gelbe Zelle, auf die Spalten, die ich gerade erst eingefügt habe. Ein Satz leistet bei dieser Tabelle ungefähr so viel wie ein Tinder-Bild für zukünftiges Eheglück. Man sieht etwas. Nur nicht genug.
 
 "Wenn wir 1,8 Millionen Euro pro Jahr einspielen wollen", sage ich, "und ein Vertriebler im industriellen Umfeld grob 400.000 Euro Umsatz pro Jahr schafft, brauchen wir etwa fünf Vertriebler."
 
@@ -1041,7 +1041,7 @@ Frank hebt die Hand. "Moment. Umsatz oder Ergebnisbeitrag?"
 
 "Umsatz", sage ich.
 
-Dann sehe ich auf meine eigene Tabelle.
+Dann schaue ich auf meine eigene Tabelle.
 
 "Mist."
 
@@ -1049,7 +1049,7 @@ Frank wartet.
 
 "Ergebnisbeitrag", sage ich. "Die 1,8 Millionen sind Ergebnisbeitrag. Ich habe gerade mit Umsatz gerechnet."
 
-In meinem Nacken wird es warm. Nicht angenehm warm. Eher so, als hätte mir jemand von innen die Heizung aufgedreht.
+In meinem Nacken wird es warm. Nicht angenehm warm. Eher wie eine Heizung, die jemand von innen aufgedreht hat.
 
 "Bei zehn Prozent EBIT-Marge", sage ich langsam, "brauchen wir achtzehn Millionen Umsatz. Und wenn ein Vertriebler vierhunderttausend Euro Umsatz schafft..."
 
@@ -1063,7 +1063,7 @@ Die Zahl steht plötzlich im Raum, obwohl niemand sie gesagt hat. Fünfundvierzi
 
 "Dann sag auch Umsatz. Nicht Ergebnisbeitrag", sagt Frank. Er ist offensichtlich noch nicht gedanklich bei meiner Schlussfolgerung angekommen.
 
-"Das ändert doch alles."
+"Dann ändert sich doch alles."
 
 "Es ändert die Story", sagt Frank ruhig. "Nicht zwingend die Richtung."
 
@@ -1075,11 +1075,11 @@ Die Zahl steht plötzlich im Raum, obwohl niemand sie gesagt hat. Fünfundvierzi
 
 "Dann muss die Rechnung anders tragen." Frank sagt das so, als sei es keine Flucht, sondern ein Arbeitsschritt. "Wir gehen stärker in Richtung Großprojekte, Rollout über mehrere Werke, Cross-Selling bei bestehenden Kunden und Partnerkanäle. Mehr Umsatz pro Vertriebsaufwand. Höherer Auftragswert. Weniger einzelne Abschlüsse."
 
-"Das ist eine komplett andere Vertriebslogik und das Grundproblem mit dem starken Pre-Invest bleibt."
+"Eine komplett andere Vertriebslogik. Und das Grundproblem mit dem starken Pre-Invest bleibt."
 
 "Ja."
 
-Er sagt _ja_, als hätte ich gerade nicht den Business Case gekillt, sondern nur eine neue Spalte in einer Excel hinzugefügt.
+Er sagt _ja_, als ginge es um eine neue Excel-Spalte und nicht um einen gekillten Business Case.
 
 "Selbst dann", sage ich, "müssen wir die Vertriebskapazität vorher aufbauen. Mindestens ein Jahr vorher. Besser zwei. Pipelineaufbau, Kontakte, Piloten, Ausschreibungen, Einkauf. Nora nennt das stufenweise Pipeline."
 
@@ -1087,7 +1087,7 @@ Frank sagt nichts.
 
 "Das Gleiche haben wir bei Marta. Entwicklungskosten kommen sofort. Pilotfähigkeit, Stabilisierung, Plattformentscheidung. Die Kapazität muss da sein, bevor irgendetwas verkauft werden kann."
 
-Ich sehe, dass Frank verstanden hat. Ich sehe es daran, dass er nicht nickt.
+Frank hat verstanden. Ich erkenne es daran, dass er nicht nickt.
 
 "Wir haben also vorne einen Pre-Invest", sage ich. "Entwicklung und Vertrieb laufen schon, aber der Umsatz kommt versetzt. Dadurch schiebt sich der Break-even nach hinten."
 
@@ -1099,7 +1099,7 @@ Frank schaut an mir vorbei auf den Gang, wo zwei Kolleginnen gespannt stehen ble
 
 "Deswegen ist die alte Kurve falsch", führe ich fort.
 
-Frank sieht mir in die Augen: "Dann muss der Umsatz in den Jahren danach eben deutlich wachsen."
+Frank sieht mir in die Augen. "Dann muss der Umsatz in den Jahren danach eben deutlich wachsen."
 
 Der Satz ist so beiläufig, dass ich im ersten Moment glaube, ihn falsch verstanden zu haben.
 
@@ -1115,7 +1115,7 @@ Der Satz ist so beiläufig, dass ich im ersten Moment glaube, ihn falsch verstan
 
 "Mit dem Rückenwind aus der Benton-&-Cale-Studie werden wir das durchgeboxt bekommen. Lass das mal mein Problem sein", wiegelt Frank ab.
 
-Ich merke, dass ich meine Hände zu Fäusten geballt habe. Ich versuche mich etwas zu entspannen, einen Schritt zurück zu gehen: "Dieser Hockey-Stick ist doch nur eine andere Art zu sagen, dass wir am Anfang Kosten verstecken und später Wachstum behaupten", versuche ich noch einmal Frank umzustimmen.
+Meine Hände sind zu Fäusten geballt. Ich löse sie und trete einen Schritt zurück. "Dieser Hockey-Stick ist doch nur eine andere Art zu sagen, dass wir am Anfang Kosten verstecken und später Wachstum behaupten", versuche ich noch einmal Frank umzustimmen.
 
 "Wir verstecken nichts." Frank wird jetzt leiser. "Wir erklären, warum der Anfang teuer ist und warum sich das danach lohnt."
 
@@ -1143,7 +1143,7 @@ Ich schaue auf meinen Bildschirm. Die alte Umsatzkurve zeigt Break-Even nach zwe
 
 Ich hätte gern Marta neben mir. Oder Nora. Irgendjemanden, der Frank an dieser Stelle mit einer anderen Autorität unterbrechen kann als ich mit meiner schlecht versteckten Nervosität.
 
-"Das klingt nicht besser" sage ich. "Das wird Hans doch nie durchwinken."
+"Klingt nicht besser", sage ich. "Das wird Hans doch nie durchwinken."
 
 "Es muss auch nicht isoliert betrachtet besser klingen. Es muss entscheidbar werden. Dafür haben wir die Studie von Benton & Cale, die ihm sagt, dass es inhaltlich richtig ist. Dafür muss er ein kommerzielles Risiko eingehen, ja. Aber die Chancen sind auch entsprechend groß."
 
@@ -1155,7 +1155,7 @@ Er nimmt den Laptop unter seinen anderen Arm.
 
 "Die nehmen wir als Worst Case auf."
 
-Das ist der Moment, in dem ich verstehe, dass es in Franks Welt zwei Wahrheiten gibt. Eine, mit der man entscheidet. Und eine, mit der später gearbeitet wird. Er hält das nicht für unehrlich. Er hält es für Reihenfolge. Den normalen Lauf der Dinge. Frank beginnt loszulaufen. Aus seiner Sicht ist alles geklärt.
+In diesem Moment verstehe ich, dass es in Franks Welt zwei Wahrheiten gibt. Eine, mit der man entscheidet. Und eine, mit der später gearbeitet wird. Er hält das nicht für unehrlich. Er hält es für Reihenfolge. Den normalen Lauf der Dinge. Frank beginnt loszulaufen. Aus seiner Sicht ist alles geklärt.
 
 "Ich will in der Zielvariante die Annahmen sichtbar lassen", sage ich noch.
 
@@ -1179,31 +1179,31 @@ Um 18:30 Uhr beginnt das Büro, langsam einzuschlummern.
 
 Zuerst verschwinden die Stimmen. Dann werden die Türen lauter. Danach hört man nur noch die vereinzelten Geräusche jener Menschen, die entweder zu wichtig sind, um zu normalen Zeiten zu gehen, oder zu schlecht organisiert, um es zu schaffen. Ich gehöre an diesem Abend zur zweiten Gruppe und hoffe, dass es von außen wie die erste aussieht.
 
-Über meinem Schreibtisch bleibt das Licht nur an, wenn ich mich alle fünfzehn Minuten bewege. Ich stehe also regelmäßig auf und laufe eine Runde um meinen Schreibtisch. Es ist, als würde das Gebäude höflich darauf hinweisen, dass nun wirklich genug gearbeitet worden ist.
+Über meinem Schreibtisch bleibt das Licht nur an, wenn ich mich alle fünfzehn Minuten bewege. Ich stehe also regelmäßig auf und laufe eine Runde um meinen Schreibtisch. Das Gebäude weist höflich darauf hin, dass nun wirklich genug gearbeitet worden ist.
 
-Meine Excel-Datei sieht inzwischen besser aus als ich. Leider liegt das nicht daran, dass die Excel hübscher geworden wäre.
+Meine Excel-Datei wirkt inzwischen besser als ich. Leider liegt das nicht daran, dass die Excel hübscher geworden wäre.
 
-Ich habe die Arbeitsblätter neu sortiert. Vorne liegt keine Executive Summary. Das ist Absicht. Eine Executive Summary verführt dazu, so zu tun, als sei schon zusammengefasst worden, was noch niemand gemeinsam verstanden hat. Stattdessen beginnt die Datei mit _Arbeitsstand Wirtschaftsplanung Plattformoption_ und darunter mit einem Feld, das ich bewusst leer lasse:
+Ich habe die Arbeitsblätter neu sortiert. Vorne liegt keine Executive Summary. Absicht. Eine Executive Summary verführt dazu, so zu tun, als sei schon zusammengefasst worden, was noch niemand gemeinsam verstanden hat. Stattdessen beginnt die Datei mit _Arbeitsstand Wirtschaftsplanung Plattformoption_ und darunter mit einem Feld, das ich bewusst leer lasse:
 
 _Zusammenfassung nach gemeinsamer Abstimmung._
 
-Das gefällt mir. Es sieht vorsichtig aus. Fast reif.
+Mir gefällt das. Es wirkt vorsichtig. Fast reif.
 
 Danach kommen die Varianten.
 
 _Variante A: Konservativer Lernpfad._
 
-Das ist Martas Welt. Demo stabilisieren, Pilotfähigkeit herstellen, danach Plattformentscheidung. Feste Kapazität, variabler Umfang. Acht bis zwölf Wochen pro Lernschritt. Hoher Pre-Invest, späterer Break-even, viele gelbe Zellen und einige rote, die ich erst einmal stehen lasse, weil sie wenigstens ehrlich aussehen.
+Martas Welt: Demo stabilisieren, Pilotfähigkeit herstellen, danach Plattformentscheidung. Feste Kapazität, variabler Umfang. Acht bis zwölf Wochen pro Lernschritt. Hoher Pre-Invest, späterer Break-even, viele gelbe Zellen und einige rote, die ich erst einmal stehen lasse, weil sie wenigstens ehrlich aussehen.
 
 _Variante B: Zielbild Skalierung._
 
-Das ist Franks Welt. Großprojekte, Rollout über mehrere Werke, Cross-Selling bei bestehenden Kunden, Partnerkanäle, steigender Auftragswert und ein Umsatzpfad, der sich nach Jahr zwei so entschieden nach oben biegt, dass man ihn nicht Kurve nennen sollte, ohne sich vorher bei der Geometrie zu entschuldigen.
+Franks Welt: Großprojekte, Rollout über mehrere Werke, Cross-Selling bei bestehenden Kunden, Partnerkanäle, steigender Auftragswert und ein Umsatzpfad, der sich nach Jahr zwei so entschieden nach oben biegt, dass man ihn nicht Kurve nennen sollte, ohne sich vorher bei der Geometrie zu entschuldigen.
 
 Zwischen beiden Varianten liegt keine technische Differenz. Es ist dieselbe Wirklichkeit, nur unter anderem Licht. Bei Marta fällt das Licht von oben auf den Werkstattboden. Bei Frank ist es das Licht eines Werbedisplays an einer vierspurigen Schnellstraße Richtung Großstadt.
 
 Ich baue ein Blatt mit dem Namen _Nicht abgestimmte Punkte_.
 
-Das fühlt sich gut an. Es ist die Art Blatt, mit der man sich selbst beweist, dass man nicht zu denen gehört, die Risiken verstecken. Ich schreibe vier Zeilen.
+Das fühlt sich gut an. Mit so einem Blatt beweist man sich selbst, dass man nicht zu denen gehört, die Risiken verstecken. Ich schreibe vier Zeilen.
 
 _Marta: Kapazität und Umfang noch nicht zugesagt._
 
@@ -1213,9 +1213,9 @@ _Joachim: Risiko- und Annahmenprüfung offen._
 
 _Frank: Zielvariante noch nicht mit Lieferfähigkeit abgeglichen._
 
-Dann sehe ich auf die Zeilen und merke, dass sie klingen, als hätten meine Kollegen ihre Arbeit nicht gemacht.
+Dann lese ich die Zeilen noch einmal. Sie klingen, als hätten meine Kollegen ihre Arbeit nicht gemacht.
 
-_Kapazität und Umfang noch nicht zugesagt_ klingt, als hätte Marta sich geweigert. Das stimmt nicht. Sie hilft mir, eine Planungslogik zu finden, die überhaupt erst seriös ist. _Forecast ohne gefüllte Pipeline_ klingt, als würde Nora uns den Umsatz verweigern. Auch das ist falsch. Nora verhindert nur, dass ich Hoffnung mit Quartalszahlen verwechsle. Und Joachim hat gar nichts geprüft, weil ich ihn noch nicht gefragt habe.
+_Kapazität und Umfang noch nicht zugesagt_ klingt, als hätte Marta sich geweigert. Das stimmt nicht. Sie hilft mir, eine Planungslogik zu finden, die überhaupt erst seriös ist. _Forecast ohne gefüllte Pipeline_ macht Nora zur Umsatzverhinderin. Auch falsch. Nora verhindert nur, dass ich Hoffnung mit Quartalszahlen verwechsle. Und Joachim hat gar nichts geprüft, weil ich ihn noch nicht gefragt habe.
 
 Ich ändere die Formulierungen.
 
@@ -1223,7 +1223,7 @@ Aus _Kapazität und Umfang noch nicht zugesagt_ wird:
 
 _Lieferfähigkeit abhängig von priorisiertem Ressourceneinsatz und finalem Scope._
 
-Das klingt besser. Es klingt sogar so viel besser, dass ich mich kurz schäme.
+Besser. Sogar so viel besser, dass ich mich kurz schäme.
 
 Aus _Forecast ohne gefüllte Pipeline_ wird:
 
@@ -1239,9 +1239,9 @@ Ich färbe die Statusspalte für die einzelnen Punkte gelb.
 
 Gelb ist inzwischen meine Lieblingsfarbe für Dinge, die eigentlich rot sein wollen. Rot wäre es ja eigentlich nur, wenn jemand schon mit diesen Umsätzen gerechnet hätte. Solange wir noch planen, sind es nur mögliche Probleme, beruhige ich mich selbst.
 
-Für einen Moment stelle ich mir den Workshop vor, den wir in der Folgewoche machen werden. Marta erklärt, welche Kapazität wirklich verfügbar ist. Nora hält die Pipeline-Stufen sauber auseinander. Frank wird ungeduldig, zeigt aber gerade genug Geduld, um am Ende doch eine entscheidbare Richtung daraus zu machen.
+Kurz stelle ich mir den Workshop vor, den wir in der Folgewoche machen werden. Marta erklärt, welche Kapazität wirklich verfügbar ist. Nora hält die Pipeline-Stufen sauber auseinander. Frank wird ungeduldig, zeigt aber gerade genug Geduld, um am Ende doch eine entscheidbare Richtung daraus zu machen.
 
-Es ist eine schöne Vorstellung. Ich spüre, wie aus dem nicht sehr beliebten Thema Wirtschaftsplanung etwas Teamgeist und gemeinsame Ziele entstehen könnten:
+Eine schöne Vorstellung. Aus dem nicht sehr beliebten Thema Wirtschaftsplanung könnte etwas wie Teamgeist und gemeinsame Ziele entstehen:
 
 Alle schauen auf dieselbe Datei. Jeder sagt, was er wirklich glaubt. Nicht als Verteidigung, sondern als Beitrag. Wir legen gemeinsam fest, welche Annahmen wir tragen können, wo wir sparen müssen, wo wir mehr investieren müssen und wo wir Hans erklären, dass eine Entscheidung unter Unsicherheit immer noch eine Entscheidung unter Unsicherheit bleibt, auch wenn man sie auf fünf Jahre verteilt.
 
@@ -1263,7 +1263,7 @@ Dann setze ich den Cursor in die CC-Zeile.
 
 Marta.
 
-Ihr Name erscheint mit Foto, Statuspunkt und polnischer Telefonnummer. Ich sehe sie im Labor vor mir, wie sie den Schraubendreher in der Hand hält und sagt, dass wir keine Plattform auf Basis einer Messe-Demo versprechen sollten. Ich habe ihre Warnung in die Datei geschrieben. Es steht alles da. Gelb, mit Kommentar.
+Ihr Name erscheint mit Foto, Statuspunkt und polnischer Telefonnummer. Vor mir steht Marta im Labor, den Schraubendreher in der Hand, und sagt, dass wir keine Plattform auf Basis einer Messe-Demo versprechen sollten. Ich habe ihre Warnung in die Datei geschrieben. Es steht alles da. Gelb, mit Kommentar.
 
 Ich lösche ihren Namen wieder.
 
@@ -1295,9 +1295,9 @@ Dann schreibe ich unter die Mail noch einen Satz:
 
 _Bitte noch nicht verteilen._
 
-Ich sehe ihn an.
+Ich schaue ihn an.
 
-Der Satz ist vernünftig. Er ist sogar notwendig. Aber er klingt Frank gegenüber misstrauisch. Als würde ich ihm eine Grenze setzen, bevor er überhaupt etwas falsch gemacht hat. Als hätte ich nicht verstanden, dass Führungskräfte auf dieser Ebene Informationen brauchen, um Themen vorzubereiten. Als wäre ich jemand, der Verantwortung will, aber die Bewegung nach oben fürchtet.
+Der Satz ist vernünftig. Sogar notwendig. Aber er klingt Frank gegenüber misstrauisch. Als würde ich ihm eine Grenze setzen, bevor er überhaupt etwas falsch gemacht hat. Als hätte ich nicht verstanden, dass Führungskräfte auf dieser Ebene Informationen brauchen, um Themen vorzubereiten. Als wäre ich jemand, der Verantwortung will, aber die Bewegung nach oben fürchtet.
 
 Ich lösche den Satz.
 
@@ -1305,7 +1305,7 @@ Stattdessen schreibe ich:
 
 _Die offenen Punkte sind auf einem separaten Blatt zusammengefasst._
 
-Das klingt professionell. Professionell ist im Konzern oft die angenehmere Schwester von feige.
+Professionell. Im Konzern oft die angenehmere Schwester von feige.
 
 Ich hänge die Datei an und ändere den Namen noch einmal.
 
@@ -1323,7 +1323,7 @@ Das Gefühl hält ungefähr so lange, wie Outlook braucht, um die Mail aus dem P
 
 Dann ist die Datei weg.
 
-Ich ziehe die Hand von der Maus, als hätte der Klick eine Temperatur hinterlassen.
+Ich ziehe die Hand von der Maus. Der Klick scheint eine Temperatur hinterlassen zu haben.
 
 Ich bleibe sitzen. Die automatische Beleuchtung über meinem Schreibtisch geht aus. Nur mein Monitor ist noch hell, weil ich die Maus hin und her bewege, ohne etwas zu tun. Auf dem Bildschirm steht wieder die leere Inbox, dieses kleine, helle Versprechen, dass Arbeit irgendwann fertig sein könnte, wenn nur niemand mehr antwortet.
 
@@ -1354,11 +1354,11 @@ Auf meinem Laptop liegt die Rohfassung. In meinem Notizbuch stehen die offenen P
 
 Der Raum ist schon fast voll.
 
-Marta sitzt am Fenster und hat ihren Laptop aufgeklappt, aber die Hände nicht auf der Tastatur. Sie schaut gedankenverloren aus dem Fenster. Das ist bei ihr selten ein gutes Zeichen. Nora sitzt ihr gegenüber, die Beine übereinandergeschlagen, den Stift quer über dem Notizblock. Neben Frank sitzt eine Frau aus der Konzernstrategie, die ich nur flüchtig kenne. Frank hat sie als _Note-Taker_ organisiert. Sie soll mitschreiben, damit wir uns ganz auf die Inhalte konzentrieren können.
+Marta sitzt am Fenster und hat ihren Laptop aufgeklappt, aber die Hände nicht auf der Tastatur. Ihr Blick hängt draußen. Bei ihr selten ein gutes Zeichen. Nora sitzt ihr gegenüber, die Beine übereinandergeschlagen, den Stift quer über dem Notizblock. Neben Frank sitzt eine Frau aus der Konzernstrategie, die ich nur flüchtig kenne. Frank hat sie als _Note-Taker_ organisiert. Sie soll mitschreiben, damit wir uns ganz auf die Inhalte konzentrieren können.
 
 Sie sitzt nicht zufällig neben Frank. Von dort aus sieht sie den Bildschirm, die Tür und uns. Niemand fragt, warum sie dabei ist. Konzernstrategie ist eine dieser Funktionen, bei denen Anwesenheit bereits eine Antwort ist.
 
-Joachim ist nicht da. Ich habe mich immer noch nicht getraut, mit ihm zu sprechen und ihn zurück ins Projekt zu holen. Ich sehe auf die freien Stühle, als könne einer von ihnen nachträglich erklären, dass diese Abwesenheit kein Problem ist.
+Joachim ist nicht da. Ich habe mich immer noch nicht getraut, mit ihm zu sprechen und ihn zurück ins Projekt zu holen. Die freien Stühle erklären nicht nachträglich, warum seine Abwesenheit kein Problem sein sollte.
 
 Frank kommt zwei Minuten nach Beginn hinein, was bei ihm nie wie Unpünktlichkeit wirkt, sondern wie ein Hinweis darauf, dass vor diesem Termin schon andere, wichtigere Dinge stattgefunden haben. Er legt sein Notebook an den Platz am Kopfende, schließt den Adapter an und sagt: "Gut, dann können wir ja direkt einsteigen."
 
@@ -1366,7 +1366,7 @@ Meine Agenda liegt noch geschlossen vor mir.
 
 Auf dem Bildschirm erscheint nicht meine Datei.
 
-Oder genauer: Es ist meine Datei, aber sie trägt andere Kleidung.
+Oder genauer: Meine Datei trägt andere Kleidung.
 
 Oben steht nicht mehr _Rohfassung Wirtschaftsplanung Plattformoption_.
 
@@ -1376,11 +1376,11 @@ _Skalierungsoption visuelle Qualitätsassistenz_
 
 Darunter: _Arbeitsstand zur Ausarbeitung der Entscheidungsunterlage_.
 
-Was Frank aus meiner Datei gemacht hat, sieht sauber aus. Zu sauber. Die gelben Zellen sind verschwunden. Stattdessen gibt es kleine Fußnoten in hellgrau. Die Seite _Nicht abgestimmte Punkte_ ist nicht mehr gut sichtbar, sondern unscheinbar als _OPL_ getarnt. Die beiden Varianten heißen nicht mehr konservativ und Zielbild. Sie heißen _Basisfall_ und _Skalierungsfall_.
+Was Frank aus meiner Datei gemacht hat, wirkt sauber. Zu sauber. Die gelben Zellen sind verschwunden. Stattdessen gibt es kleine Fußnoten in hellgrau. Die Seite _Nicht abgestimmte Punkte_ ist nicht mehr gut sichtbar, sondern unscheinbar als _OPL_ getarnt. Die beiden Varianten heißen nicht mehr konservativ und Zielbild. Sie heißen _Basisfall_ und _Skalierungsfall_.
 
 Ich starre auf den Begriff _Skalierungsfall_ und merke, dass er deutlich freundlicher klingt als _Hockey-Stick_.
 
-"Ich habe die Richtung in den letzten Tagen immer wieder mit Hans gespiegelt", sagt Frank und stellt sich neben den Bildschirm, als hätte er nicht nur eine Datei geöffnet, sondern eine Tür. "Die gute Nachricht ist: Wir haben Rückenwind. Hans sieht den strategischen Charme und will, dass wir die Skalierungsoption entscheidungsfähig ausarbeiten."
+"Ich habe die Richtung in den letzten Tagen immer wieder mit Hans gespiegelt", sagt Frank und stellt sich neben den Bildschirm. Er öffnet keine Datei, er öffnet eine Tür. "Die gute Nachricht ist: Wir haben Rückenwind. Hans sieht den strategischen Charme und will, dass wir die Skalierungsoption entscheidungsfähig ausarbeiten."
 
 Er macht eine kleine Pause.
 
@@ -1388,7 +1388,7 @@ Nicht lang. Nur lang genug, damit der Satz im Raum stehen kann.
 
 "Das heißt", fährt er fort, "wir nutzen den heutigen Termin, um gemeinsam festzulegen, was wir brauchen, damit die Unterlage belastbar wird."
 
-Für einen Moment bin ich erleichtert. _Gemeinsam_ ist das Wort, an das ich mich halte.
+Kurz bin ich erleichtert. _Gemeinsam_ ist das Wort, an das ich mich halte.
 
 Marta sieht nicht erleichtert aus.
 
@@ -1410,7 +1410,7 @@ Ich blättere in meinem Notizbuch, obwohl dort keine Antwort steht, die mir helf
 
 "Ich habe das als Annahme markiert", sage ich.
 
-Marta sieht mich an. Es ist ein lauter Blick. Voller Vorwürfe.
+Marta sieht mich an. Ein lauter Blick. Voller Vorwürfe.
 
 "Du hast es markiert", sagt sie, "und es trotzdem nicht für notwendig empfunden, uns zu informieren, als du die Planung verteilt hast."
 
@@ -1420,7 +1420,7 @@ Marta sieht mich an. Es ist ein lauter Blick. Voller Vorwürfe.
 
 Nora legt den Stift ab. "Geht mir ähnlich. Ihr habt unsere Einwände genommen und daraus eure Handlungsfähigkeit gebaut."
 
-"Das ist nicht fair", sage ich.
+"Nicht fair", sage ich.
 
 "Vielleicht nicht", sagt Nora. "Aber bei Frank nennst du es Vision. Bei uns nennst du es Annahme."
 
@@ -1428,9 +1428,9 @@ Frank hebt eine Hand, nicht beschwichtigend, eher ordnend. "Lasst uns bitte bei 
 
 "Du zeigst Hans gerade einen Forecast ohne gefüllte Pipeline", sagt Nora. "Ohne überhaupt zu wissen, wen wir ansprechen sollen. Und am Ende dürfen Marta und ich erklären, warum das nicht aufgeht."
 
-"Es ist kein Forecast", sage ich zu schnell.
+"Kein Forecast", sage ich zu schnell.
 
-Nora schaut mich an, als hätte ich gerade eine Tür geschlossen, die sie noch offenhalten wollte. "Du erklärst mir gerade, was du gemeint hast. Ich sage dir, was angekommen ist."
+Nora schaut mich an. Ich habe gerade eine Tür geschlossen, die sie noch offenhalten wollte. "Du erklärst mir gerade, was du gemeint hast. Ich sage dir, was angekommen ist."
 
 Es wird still. Genau so lange, wie jeder braucht, um die Vorwürfe in seinem Kopf in Worte zu verwandeln.
 
@@ -1456,9 +1456,9 @@ Frank hebt beide Hände, nicht hoch, nur so weit, dass der Raum ihn wieder regis
 
 Die Frau aus der Konzernstrategie schreibt still weiter, was mich noch nervöser macht als jede Wortmeldung.
 
-Frank presst kurz die Lippen zusammen. Ich sehe, wie sehr ihn diese Schleife ungeduldig macht: Marta schützt ihr Team, Nora schützt den Markt, ich schütze meine Datei. Alles berechtigt. Alles nachvollziehbar. Und trotzdem kommt in diesem Moment niemand auch nur einen Zentimeter näher an eine Unterlage, mit der Hans etwas entscheiden kann.
+Frank presst kurz die Lippen zusammen. Diese Schleife macht ihn ungeduldig: Marta schützt ihr Team, Nora schützt den Markt, ich schütze meine Datei. Alles berechtigt. Alles nachvollziehbar. Und trotzdem kommt in diesem Moment niemand auch nur einen Zentimeter näher an eine Unterlage, mit der Hans etwas entscheiden kann.
 
-Ich merke, wie meine Sätze kürzer werden, sobald ich zu ihr hinübersehe. Für Marta und Nora hätte ich mich verteidigt. Für die Konzernstrategie formuliere ich mich.
+Meine Sätze werden kürzer, sobald ich zu ihr hinübersehe. Für Marta und Nora hätte ich mich verteidigt. Für die Konzernstrategie formuliere ich mich.
 
 Sie hebt kurz den Blick. "Soll ich als offenen Punkt aufnehmen: fachliche Abstimmung nachholen?"
 
@@ -1488,7 +1488,7 @@ Ich schaue zu ihm.
 
 "Ich habe entschieden, sie Hans zu zeigen", sagt er. "Nicht du."
 
-Für einen Moment bin ich dankbar.
+Kurz bin ich dankbar.
 
 Dann ergänzt er: "Und ich würde es wieder tun, weil wir sonst immer noch darüber reden würden, ob wir irgendwann über Skalierung reden dürfen."
 
@@ -1498,7 +1498,7 @@ Marta lehnt sich zurück. Nora sieht auf ihren Stift. Niemand sagt, dass Frank g
 
 Nora lehnt sich zurück. "Stopp."
 
-Niemand hört sofort auf. Das ist bei einem Stopp in einem Meeting meistens so. Man muss so etwas mehr als zweimal sagen, bis die Menschen merken, dass nicht nur eine rhetorische Pause gemeint ist.
+Niemand hört sofort auf. Bei einem Stopp in einem Meeting ist das meistens so. Man muss so etwas mehr als zweimal sagen, bis die Menschen merken, dass nicht nur eine rhetorische Pause gemeint ist.
 
 "Stopp!", sagt Nora noch einmal, diesmal mit mehr Nachdruck. Sie steht auf, um sich mehr Gewicht zu verschaffen. "Wir reden seit zwanzig Minuten über dieselbe Datei und keiner redet über dieselbe Botschaft."
 
@@ -1522,7 +1522,7 @@ Kurz will ich widersprechen. Ich lasse es. Sie hat recht. Unser Streit ging nich
 
 "Und auf der Appellebene", sagt Nora, "sagt diese Unterlage an Hans: Gib uns Rückenwind für die Skalierung."
 
-Frank lächelt dünn. "Das ist ja auch nicht ganz falsch."
+Frank lächelt dünn. "Ganz falsch ist das ja auch nicht."
 
 "Eben", sagt Nora. "Deshalb sind wir alle so emotional."
 
@@ -1532,15 +1532,15 @@ Marta nickt langsam. "Auf der Sachebene kann ich mit dem Lernpfad leben. Auf der
 
 "Nein", sagt Marta. "Aber es kommt so an."
 
-Es ist nicht das erste Mal an diesem Vormittag, dass dieser Unterschied im Raum steht. Es ist nur das erste Mal, dass ich ihn von allen Seiten sehe. Meine Achtung vor Nora ist in den letzten Minuten deutlich gestiegen. Sie hat es geschafft, mit einer Systematik, an die jeder andocken kann, eine Reflexion unseres eigenen Verhaltens zu erzwingen.
+Dieser Unterschied stand an diesem Vormittag schon öfter im Raum. Zum ersten Mal sehe ich ihn von allen Seiten. Meine Achtung vor Nora ist in den letzten Minuten deutlich gestiegen. Sie hat es geschafft, mit einer Systematik, an die jeder andocken kann, eine Reflexion unseres eigenen Verhaltens zu erzwingen.
 
 Frank geht einen Schritt zum Bildschirm. "Auf der Appellebene brauchen wir trotzdem eine Richtung. Sonst bekommen wir keine nächste Entscheidung. Hans finanziert uns nicht dafür, dass wir sauber unsicher sind."
 
 "Dann müssen wir die Unsicherheit so formulieren, dass klar ist, wer was trägt", sagt Nora. "Nicht so, dass es am Ende wie unser Versprechen aussieht."
 
-Die Frau aus der Konzernstrategie hebt zum ersten Mal den Kopf. "Das ist tatsächlich der Punkt. Wenn diese Unterlage später in den Unterschriftenlauf geht, muss das erkennbar sein. Wer trägt welches Risiko, wer entscheidet was."
+Die Frau aus der Konzernstrategie hebt zum ersten Mal den Kopf. "Genau dort liegt der Punkt. Wenn diese Unterlage später in den Unterschriftenlauf geht, muss das erkennbar sein. Wer trägt welches Risiko, wer entscheidet was."
 
-Ich sehe sie an. Bis eben hatte ich gehofft, sie schreibe nur mit. Jetzt stellt sich heraus, dass sie auch zuhört.
+Ich schaue sie an. Bis eben hatte ich gehofft, sie schreibe nur mit. Jetzt stellt sich heraus, dass sie auch zuhört.
 
 Der Rest des Workshops wird sachlicher. Nicht gut. Sachlicher.
 
@@ -1570,7 +1570,7 @@ Frank hebt den Stift. "Mit wem?"
 
 Die Frau aus der Konzernstrategie schreibt mit, diesmal sichtbar langsamer.
 
-"Das ist vernünftig", sagt sie. "Ein monatliches Steering mit Sponsor-Entscheidungen. Dann kann man Annahmen auch offiziell nachziehen."
+"Vernünftig", sagt sie. "Ein monatliches Steering mit Sponsor-Entscheidungen. Dann kann man Annahmen auch offiziell nachziehen."
 
 Nora tippt mit dem Stift auf ihr Blatt. "Zweiter Punkt: Zugang zu Kunden. Nicht abstrakt. Wenn wir Referenzkunden brauchen, brauchen wir Türen."
 
@@ -1602,20 +1602,20 @@ Die Frau überlegt kurz. "Das zentrale Marketing plant gerade die Inhalte für d
 
 "Dann ist die Botschaft", sagt Marta, "dass wir lernen."
 
-Frank verzieht den Mund. "Das klingt klein."
+Frank verzieht den Mund. "Klingt klein."
 
 "Dann sag: gezielte Validierung", sagt Nora.
 
 Frank lächelt kaum merklich. "Damit kann ich arbeiten."
 
-Danach wächst die Liste, ohne dass jemand noch so tut, als sei sie nur Verwaltung: Wir brauchen die IT-Architektur, bevor aus dem Demonstrator eine Landschaft aus Sonderlösungen wird. Wir brauchen Einkauf, falls aus einzelnen Kundenpiloten plötzlich Hardwarepakete, Kameras und Integrationspartner werden. Wir brauchen Legal und Datenschutz, sobald echte Kundenbilder über unsere Systeme laufen. Ich brauche Finance, weil ein Skalierungsfall, der nur aus Umsatz und Entwicklungskosten besteht, in einem Konzern höchstens bis zur zweiten Nachfrage überlebt.
+Danach wächst die Liste, ohne dass jemand noch so tut, als sei sie nur Verwaltung: Wir brauchen die IT-Architektur, bevor aus dem Demonstrator eine Landschaft aus Sonderlösungen wird. Wir brauchen Einkauf, falls aus einzelnen Kundenpiloten plötzlich Hardwarepakete, Kameras und Integrationspartner werden. Wir brauchen Legal und Datenschutz, sobald echte Kundenbilder über unsere Systeme laufen. Und Finance, weil ein Skalierungsfall, der nur aus Umsatz und Entwicklungskosten besteht, in einem Konzern höchstens bis zur zweiten Nachfrage überlebt.
 
 Mittlerweile sieht die Liste aus wie ein Arbeitsplan, der anerkennt, dass unsere eigene Organisation nicht reicht, wenn sie gleichzeitig größer erzählen und sauberer liefern soll.
-Ich merke, wie mir das Ganze langsam über den Kopf wächst. Ich brauche dringend Unterstützung von jemandem, der mitdenken kann und mir hilft, in die richtige Richtung zu arbeiten. Ich muss dringend mit Joachim sprechen.
+Langsam wächst mir das Ganze über den Kopf. Ich brauche dringend Unterstützung von jemandem, der mitdenken kann und mir hilft, in die richtige Richtung zu arbeiten. Ich muss dringend mit Joachim sprechen.
 
 Um 12:07 Uhr beendet Frank den Termin. "Gut. Das war produktiv. Nicht bequem, aber produktiv."
 
-Das ist einer dieser Managementsätze, die einen Konflikt nachträglich in einen Fortschritt verwandeln, ohne dass jemand zustimmen muss.
+Einer dieser Managementsätze, die einen Konflikt nachträglich in einen Fortschritt verwandeln, ohne dass jemand zustimmen muss.
 
 Marta packt ihren Laptop ein. Nora bleibt noch einen Moment sitzen und sieht mich an.
 
@@ -1637,15 +1637,15 @@ Nora nickt. "Ich auch. Pipeline, Forecast, Zielbild. Drei getrennte Dinge. Und F
 
 Frank, der schon halb an der Tür ist, dreht sich nicht um. "Sehr gut. Dann haben wir es sauber dokumentiert."
 
-Es klingt, als hätte er gerade keine Niederlage gehört, sondern einen weiteren Baustein für die Unterlage bekommen.
+Für ihn klingt es nicht nach Niederlage, sondern nach einem weiteren Baustein für die Unterlage.
 
-Ich merke erst in diesem Moment, was der Workshop gekostet hat. Marta und Nora helfen weiter. Aber sie helfen nicht mehr offen. Sie helfen mit Vorbehalt, Fußnoten und Verteiler.
+Erst jetzt begreife ich, was der Workshop gekostet hat. Marta und Nora helfen weiter. Aber sie helfen nicht mehr offen. Sie helfen mit Vorbehalt, Fußnoten und Verteiler.
 
 Als ich zurück an meinen Schreibtisch komme, wartet Yvonne neben meinem Platz. In der Hand hält sie ein gelbes Post-it und ihr Diensthandy. Früher hätte ich sie automatisch als Eddys Sekretärin vorgestellt. Das stimmt inzwischen nicht mehr. Eddy ist im Konzern nicht mehr wichtig genug, um eine eigene Assistenz zu rechtfertigen, jedenfalls nicht offiziell. Yvonne ist jetzt Team-Assistenz, was in der Praxis bedeutet, dass Eddy sie noch immer für alles fragt und sie zusätzlich uns allen ab und zu bei banalen Dingen hilft.
 
 "Kurze Frage", sagt sie. "Willst du jetzt eigentlich das normale iPhone?"
 
-Ich sehe sie an. "Welches normale iPhone?"
+Ich schaue sie an. "Welches normale iPhone?"
 
 "Na ja, nicht das SE." Sie schaut auf ihr Post-it. "Ab Teilprojekt-Leitung ist das größere Modell vorgesehen."
 
@@ -1653,13 +1653,13 @@ Ich sehe sie an. "Welches normale iPhone?"
 
 Yvonne lächelt. "Frank hat es vorhin freigegeben."
 
-Ich sehe auf mein altes Telefon. Der Bildschirm hat seit Monaten einen Sprung in der Ecke, der mich nie genug gestört hat, um ein Ticket zu eröffnen.
+Mein altes Telefon liegt auf dem Tisch. Der Bildschirm hat seit Monaten einen Sprung in der Ecke, der mich nie genug gestört hat, um ein Ticket zu eröffnen.
 
 "Ich überlege es mir", sage ich.
 
-Yvonne nickt, als sei das die vernünftigste Antwort der Welt, und geht weiter.
+Yvonne nickt, als wäre das die vernünftigste Antwort der Welt, und geht weiter.
 
-Ich bleibe stehen und merke, dass Organisationen Anerkennung manchmal genau dann verteilen, wenn man sie am wenigsten genießen kann.
+Ich bleibe stehen. Organisationen verteilen Anerkennung manchmal genau dann, wenn man sie am wenigsten genießen kann.
 
 Natürlich will ich das größere iPhone.
 
@@ -1697,7 +1697,7 @@ Wenn ein Workshop eskaliert, stoppe die Rechtfertigungsschleife und zerlege die 
 
 **Typische Falle**
 
-Das Modell entschuldigt keine schlechte Kommunikation. Es hilft nur, sie sortierbar zu machen. Wer eine Unterlage exklusiv nach oben gibt, bleibt für die Wirkung verantwortlich, auch wenn die eigene Absicht harmloser war.
+Das Modell entschuldigt keine schlechte Kommunikation. Es hilft nur, sie sortierbar zu machen. Wer eine Unterlage exklusiv an einen ausgewählten Empfängerkreis verteilt, bleibt für die Wirkung verantwortlich, auch wenn die eigene Absicht harmloser war.
 
 **Merksatz**
 
@@ -1712,7 +1712,7 @@ Das passt.
 
 Menschen, mit denen man unangenehme Gespräche führen muss, sitzen selten dort, wo Outlook behauptet, dass sie sitzen müssten. Sie sind in Besprechungsräumen, an Kaffeemaschinen, auf Fluren oder in jener besonderen Form von Nicht-Erreichbarkeit, die im Konzern entsteht, wenn jemand zwar da ist, aber nicht gefunden werden möchte.
 
-Nach zehn Minuten sehe ich ihn im kleinen Projektraum neben dem Labor. Er steht allein vor dem Whiteboard und betrachtet eine alte Skizze des Demonstrators, als könne man an ihr nachträglich erkennen, an welcher Stelle das Projekt ohne ihn weitergefahren ist.
+Nach zehn Minuten finde ich ihn im kleinen Projektraum neben dem Labor. Er steht allein vor dem Whiteboard und betrachtet eine alte Skizze des Demonstrators, als könne man an ihr nachträglich erkennen, an welcher Stelle das Projekt ohne ihn weitergefahren ist.
 
 Ich klopfe an den Türrahmen.
 
@@ -1724,7 +1724,7 @@ Joachim dreht sich nicht um. "Wenn du wegen der Wirtschaftsplan-Rechnung kommst,
 
 Ich bleibe in der Tür stehen. In meiner Hand halte ich mein Notizbuch und zwei kleine Holzklötze aus einer Moderationskiste, die ich auf dem Weg hierher mitgenommen habe. Keine Ahnung, warum. Vielleicht, weil ich nach dem Workshop das Gefühl habe, für jedes Gespräch ein sichtbares Modell zu brauchen, damit es nicht sofort wieder aus dem Ruder läuft. 
 
-Joachim sieht die Klötze und hebt eine Augenbraue.
+Joachim bemerkt die Klötze und hebt eine Augenbraue.
 
 "Wenn das jetzt ein agiles Ritual wird, gehe ich."
 
@@ -1736,9 +1736,9 @@ Ich lege die beiden Klötze auf den Tisch.
 
 "Ich brauche deine Hilfe."
 
-"Das ist die Sachebene", sagt Joachim.
+"Sachebene", sagt Joachim.
 
-Ich sehe ihn an.
+Ich schaue ihn an.
 
 Er zeigt auf den ersten Klotz. "Da liegt sie. Die Sachebene. Rechnung prüfen, Annahmen zerlegen, Risiken sichtbar machen." Er sieht mich an. "Und Frank daran hindern, aus einem Risiko... na ja. Du weißt schon."
 
@@ -1758,7 +1758,7 @@ Ich setze mich nicht sofort. Es fühlt sich falsch an, als könne ich mir einen 
 
 "Du hast recht", sage ich.
 
-Joachim schaut mich an, als hätte ich ihm gerade ein Werkzeug gegeben, das er zwar gebrauchen kann, dessen Herkunft ihm aber missfällt.
+Joachim schaut mich an. Ich habe ihm gerade ein Werkzeug gegeben, das er zwar gebrauchen kann, dessen Herkunft ihm aber missfällt.
 
 "Das war schnell."
 
@@ -1782,7 +1782,7 @@ Ich lasse den Satz stehen.
 
 Joachim sagt nichts.
 
-Das ist bei ihm kein gutes Zeichen. Aber auch kein schlechtes. Es bedeutet nur, dass er prüft, ob der Satz akzeptabel ist.
+Bei ihm kein gutes Zeichen. Aber auch kein schlechtes. Er prüft nur, ob der Satz akzeptabel ist.
 
 "Und auf der Beziehungsebene", sage ich und tippe auf den zweiten Klotz, "habe ich dich übergangen."
 
@@ -1790,9 +1790,9 @@ Das ist bei ihm kein gutes Zeichen. Aber auch kein schlechtes. Es bedeutet nur, 
 
 "Ich auch."
 
-Jetzt sieht er mich länger an.
+Jetzt hält er meinen Blick länger.
 
-Drüben im Labor fällt etwas Metallisches auf den Boden. Jemand flucht leise. Es klingt fast beruhigend, weil dort unten die Dinge wenigstens noch sichtbar kaputtgehen.
+Drüben im Labor fällt etwas Metallisches auf den Boden. Jemand flucht leise. Fast beruhigend, weil dort unten die Dinge wenigstens noch sichtbar kaputtgehen.
 
 "Du hast es zugelassen", sagt Joachim.
 
@@ -1810,15 +1810,15 @@ Joachim schaut auf die beiden Klötze. "Du bist nicht neutral. Du wartest nur la
 
 Ich will widersprechen, aber mir fehlen die Argumente. Ich zucke zögerlich mit den Schultern. 
 
-Joachim schnaubt. "Das ist wenigstens nicht völlig blöd."
+Joachim schnaubt. "Wenigstens nicht völlig blöd."
 
 "Was?"
 
 "Dass du es merkst."
 
-Ich sehe auf die Klötze. Der eine liegt ordentlich vor mir, der andere ein wenig schief. Ich widerstehe dem Impuls, ihn geradezurücken.
+Ich schaue auf die Klötze. Der eine liegt ordentlich vor mir, der andere ein wenig schief. Ich widerstehe dem Impuls, ihn geradezurücken.
 
-"Das mit dem Sommerurlaub", sage ich. "Das war kein Witz, oder?"
+"Das mit dem Sommerurlaub", sage ich. "Kein Witz, oder?"
 
 Joachim wird still.
 
@@ -1838,19 +1838,19 @@ Er setzt sich mir gegenüber, langsam, als ärgere er sich darüber, dass der Ra
 
 Ich sage nichts.
 
-"Wenn ich hier zum Bremser werde, merke ich das nicht zuerst an meinem Titel. Titel ändern sich in diesem Laden sowieso dauernd, wenn jemand eine neue Folienvorlage braucht. Ich merke es an Sichtbarkeit. An Bewertung. Am Bonus. An der Frage, ob ich nächstes Jahr noch als jemand gelte, der ein strategisches Thema trägt, oder als jemand, den man ruft, wenn die jungen Leute ihre Excel kaputtgemacht haben."
+"Wenn ich hier zum Bremser werde, merke ich das nicht zuerst an meinem Titel. Titel ändern sich in diesem Laden sowieso dauernd, wenn jemand eine neue Folienvorlage braucht. Ich merke es an Sichtbarkeit. An Bewertung. Am Bonus. An der Frage, ob ich nächstes Jahr noch als jemand gelte, der ein strategisches Thema trägt, oder nur noch als jemand, den man ruft, wenn die jungen Leute ihre Excel kaputtgemacht haben."
 
 Er sagt es ruhig. Gerade dadurch wirkt es nicht wie eine Klage.
 
 "Bei uns ist Bonus nicht der dritte Urlaub", sagt er. "Manchmal ist es der eine."
 
-Ich denke an den Satz im Steuerkreisraum, an sein schiefes "Das war's dann wohl mit meinem Sommerurlaub", und daran, wie schnell ich ihn damals innerlich als Joachims üblichen Zynismus abgelegt habe. Es ist bequem, Menschen für zynisch zu halten. Dann muss man nicht prüfen, ob sie vielleicht nur früher als man selbst verstanden haben, was auf dem Spiel steht.
+Ich denke an den Satz im Steuerkreisraum, an sein schiefes "Das war's dann wohl mit meinem Sommerurlaub", und daran, wie schnell ich ihn damals innerlich als Joachims üblichen Zynismus abgelegt habe. Menschen für zynisch zu halten, ist bequem. Dann muss man nicht prüfen, ob sie vielleicht nur früher als man selbst verstanden haben, was auf dem Spiel steht.
 
 "Ich habe das nicht gesehen", sage ich.
 
 "Doch", sagt Joachim. "Du hast es gesehen. Du hast nur beschlossen, dass es gerade nicht dran ist."
 
-Das trifft besser, weil es stimmt.
+Der Satz trifft besser, weil er stimmt.
 
 Er beugt sich vor und nimmt den Sach-Klotz zwischen zwei Finger.
 
@@ -1862,13 +1862,13 @@ Er beugt sich vor und nimmt den Sach-Klotz zwischen zwei Finger.
 
 "Frank braucht dich auch. Er will dich nur anders benutzen", sage ich.
 
-"Das ist keine Werbung für die Rolle."
+"Keine Werbung für die Rolle."
 
 "Nein."
 
 Joachim dreht den Klotz auf die schmale Seite und balanciert ihn dort einen Moment. "Und was genau soll ich tun?"
 
-"Die Annahmen prüfen. Nicht nur die Formeln. Die Logik." Ich zähle an den Fingern ab und merke, dass es zu kontrolliert wirkt. "Wo machen wir aus einem Lernschritt schon eine Lieferzusage? Wo rutscht eine Marktannahme in den Forecast? Wo klingt Marketing plötzlich wie ein Produktversprechen? Solche Sachen."
+"Die Annahmen prüfen. Nicht nur die Formeln. Die Logik." Ich zähle an den Fingern ab und merke zu spät, wie kontrolliert es wirkt. "Wo machen wir aus einem Lernschritt schon eine Lieferzusage? Wo rutscht eine Marktannahme in den Forecast? Wo klingt Marketing plötzlich wie ein Produktversprechen? Solche Sachen."
 
 "Und wenn ich sage, dass die Zielvariante Unsinn ist?"
 
@@ -1888,7 +1888,7 @@ Joachim legt den Sach-Klotz zurück. "Ach."
 
 Er sagt nichts.
 
-Das ist der Moment, in dem ich vorsichtig werden muss. Joachim kann jeden Satz, der nach Anerkennung klingt, in drei Sekunden als Personalentwicklungsrhetorik zerlegen. Er hasst Dankbarkeit, sobald sie wie ein Mittel klingt. Er hasst Wertschätzung noch mehr, wenn sie zu spät kommt und trotzdem nützlich sein soll.
+Jetzt muss ich vorsichtig werden. Joachim kann jeden Satz, der nach Anerkennung klingt, in drei Sekunden als Personalentwicklungsrhetorik zerlegen. Er hasst Dankbarkeit, sobald sie wie ein Mittel klingt. Er hasst Wertschätzung noch mehr, wenn sie zu spät kommt und trotzdem nützlich sein soll.
 
 Ich nehme den zweiten Klotz, den für die Beziehungsebene, und drehe ihn zwischen den Fingern.
 
@@ -1904,7 +1904,7 @@ Joachim schaut auf den Klotz in meiner Hand.
 
 "Ich bin unsicher."
 
-"Das ist zumindest glaubwürdig."
+"Zumindest glaubwürdig."
 
 Ich lege den Beziehungsklotz neben den Sach-Klotz. Nicht darauf. Daneben.
 
@@ -1914,7 +1914,7 @@ Ich lege den Beziehungsklotz neben den Sach-Klotz. Nicht darauf. Daneben.
 
 "Ja."
 
-"Vorsicht", sagt er. "Das ist Franks Sprache."
+"Vorsicht", sagt er. "Franks Sprache."
 
 "Vielleicht. Aber diesmal meine ich sie."
 
@@ -1934,21 +1934,21 @@ Joachim lehnt sich zurück.
 
 Der Satz steht zwischen uns. Ich höre selbst, wie nah er an einer Versprechung liegt.
 
-"Das wird Frank nicht mögen", sagt Joachim.
+"Frank wird das nicht mögen", sagt Joachim.
 
 "Wahrscheinlich nicht."
 
 "Erzähl mir etwas Neues."
 
-Für einen Moment ist da fast so etwas wie Normalität. Kein Frieden. Eher der kleine Trost, dass Joachim wenigstens wieder einen Satz sagt, der nach ihm klingt.
+Kurz ist da fast so etwas wie Normalität. Kein Frieden. Eher der kleine Trost, dass Joachim wenigstens wieder einen Satz sagt, der nach ihm klingt.
 
 "Dann bist du wieder dabei?", frage ich.
 
-Joachim sieht auf die beiden Holzklötze.
+Joachim betrachtet die beiden Holzklötze.
 
 "Ich bin nicht wieder dabei", sagt er. "Noch nicht."
 
-"Das ist nicht dasselbe."
+"Nicht dasselbe."
 
 "Nein", sagt er. "Aber es ist vielleicht ehrlicher."
 

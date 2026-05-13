@@ -493,7 +493,7 @@ Stattdessen folge ich Frank, weil man Türen nicht lange offen hält, wenn man e
 **Leadership-Nugget der Woche**
 _Corporate Learning & Leadership Enablement_
 
-**Thema:** Wer nicht im Raum ist, wird zur Annahme
+**Thema:** Wer nicht im Raum ist, wird zur Randnotiz
 
 Entscheidungen entstehen nicht nur durch Argumente, sondern durch Zugang. Wer sprechen darf, welche Risiken im Hauptteil stehen und welche Stimmen in die Vorbereitung verlagert werden, prägt das Ergebnis oft stärker als die eigentliche Folie.
 
@@ -519,10 +519,10 @@ Teilnehmerlisten werden "fokussiert". Kritische Fachleute liefern Input, sind ab
 
 Ein sauberes Entscheidungspapier kann politisch erfolgreich und fachlich gefährlich zugleich sein. Besonders kritisch ist der Moment, in dem die Person mit dem stärksten Realitätskontakt aus der Entscheidungsrunde verschwindet.
 
-Wenn du selbst dadurch aufsteigst, ist das kein neutraler Vorgang. Zugang ist Macht. Wer Zugang bekommt, übernimmt Verantwortung für die Stimmen, die nicht mehr im Raum sind.
+Wenn du selbst durch diesen Zugang aufsteigst, ist das kein neutraler Vorgang. Wer im Raum sitzt, trägt Verantwortung für die Stimmen, die fehlen.
 
 **Merksatz**
 
-Wer nicht im Raum ist, wird schnell zur Annahme in der Folie.
+Wer nicht im Raum ist, wird schnell zur Randnotiz in der Entscheidung.
 
 :::
