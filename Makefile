@@ -1,23 +1,32 @@
 # File names
 SRC = [0-8]*.md
-TEX = tex
-PDF = pdf
+TEX_FILE = buch.tex
+PDF_FILE = buch.pdf
+EPUB_FILE = buch.epub
 
 # Tools
 PANDOC = pandoc
 LATEX = xelatex
 
 # Default target
-all: $(PDF)
+all: pdf epub
 
 # Step 1: Markdown → LaTeX
-$(TEX): $(SRC)
-	$(PANDOC)  -f markdown+smart -V csquotes --standalone --toc  --lua-filter=theory.lua --number-sections --pdf-engine=xelatex $(SRC) -o buch.$(TEX) 
+$(TEX_FILE): $(SRC) theory.lua
+	$(PANDOC)  -f markdown+smart -V csquotes --standalone --toc  --lua-filter=theory.lua --number-sections --pdf-engine=xelatex $(SRC) -o $(TEX_FILE)
 
 # Step 2: LaTeX → PDF
-$(PDF): $(TEX)
-	$(LATEX) -interaction=nonstopmode buch.$(TEX)
-	$(LATEX) -interaction=nonstopmode buch.$(TEX)  # run twice for references
+pdf: $(PDF_FILE)
+
+$(PDF_FILE): $(TEX_FILE)
+	$(LATEX) -interaction=nonstopmode $(TEX_FILE)
+	$(LATEX) -interaction=nonstopmode $(TEX_FILE)  # run twice for references
+
+# Markdown → EPUB
+epub: $(EPUB_FILE)
+
+$(EPUB_FILE): $(SRC) theory.lua epub.css cover.png
+	$(PANDOC) -f markdown+smart --standalone --toc --lua-filter=theory.lua --css=epub.css --epub-cover-image=cover.png $(SRC) -o $(EPUB_FILE)
 
 # Clean up intermediate files
 clean:
@@ -29,4 +38,6 @@ word_count:
 
 # Clean everything including PDF
 distclean: clean
-	rm -f buch.$(PDF)
+	rm -f $(PDF_FILE) $(EPUB_FILE)
+
+.PHONY: all pdf epub clean distclean word_count

@@ -28,8 +28,10 @@ jobs:
       - name: Build PDF
         run: make
 
-      - name: Upload PDF
+      - name: Upload book artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: buch-pdf
-          path: buch.pdf
+          name: buch
+          path: |
+            buch.pdf
+            buch.epub

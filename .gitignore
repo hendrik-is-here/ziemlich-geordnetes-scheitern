@@ -1,6 +1,7 @@
 # Generated manuscript outputs
 *.pdf
 *.tex
+*.epub
 
 # LaTeX intermediate files
 *.aux
