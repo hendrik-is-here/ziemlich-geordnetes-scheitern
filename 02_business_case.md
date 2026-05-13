@@ -278,17 +278,24 @@ Er lehnt sich zurück.
 
 ::: Theorie
 
-**Was in der Szene passiert ist**
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-Joachim hat unsere Idee nicht technisch zerlegt. Er hat gezeigt, dass wir noch nicht klar sagen konnten, für wen sie welchen Wert erzeugt.
+**Thema:** Ein Wertversprechen ist kein Slogan
 
-**Das Prinzip**
+Ein gutes Wertversprechen erklärt, wie ein Produkt ein konkretes Kundenproblem löst, welchen Nutzen es liefert und warum diese Lösung besser oder passender ist als verfügbare Alternativen.
 
-Ein **Wertversprechen** erklärt, wie ein Produkt ein konkretes Kundenproblem löst, welchen Nutzen es liefert und warum diese Lösung besser oder passender ist als verfügbare Alternativen. Es ist der Kern der Antwort auf die Frage: Warum sollte ein Kunde ausgerechnet das kaufen?
+**Warum es für Führung relevant ist**
 
-**So wendest du es an**
+Ohne klares Wertversprechen wird jede Diskussion zu früh technisch, finanziell oder politisch. Führungskräfte müssen dann über Roadmaps, Features und Business Cases entscheiden, obwohl noch unklar ist, warum ein Kunde handeln sollte.
 
-Formuliere dein Wertversprechen, bevor du zu tief in Features, Roadmaps oder Business Cases einsteigst. Arbeite dich durch fünf Schritte:
+**Woran du es erkennst**
+
+Das Team spricht über KI, Automatisierung, Plattform, Digitalisierung oder Strategie, aber niemand kann in einem einfachen Satz sagen, welches Kundenproblem konkret verschwindet.
+
+**Was du ausprobieren kannst**
+
+Arbeite dich durch fünf Schritte:
 
 1. Zielkunden bestimmen: Wer hat das Problem konkret?
 2. Problem beschreiben: Welcher Schmerz, Aufwand oder welche Unsicherheit soll verschwinden?
@@ -300,7 +307,7 @@ Eine einfache Arbeitsformel lautet:
 
 Für `Zielkunde`, der `Problem` hat, bietet unser Produkt `Nutzen`, weil es `Unterschied zur Alternative`.
 
-**Worauf du achten solltest**
+**Typische Falle**
 
 Verwechsle ein Wertversprechen nicht mit einem Slogan. Ein Slogan soll hängen bleiben. Ein Wertversprechen soll erklären, warum ein Kunde handeln sollte.
 
@@ -639,19 +646,24 @@ Als die Zahlen auf dem Tisch der Entscheider liegen, liegen unsere Annahmen nich
 
 ::: Theorie
 
-**Was in der Szene passiert ist**
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-Wir haben einen Business Case gebaut, obwohl belastbare Daten fehlten. Die Rechnung wurde dadurch nicht falsch, aber abhängig von Annahmen. Eine zentrale Annahme war bewusst ambitioniert gewählt, damit der Case entscheidungsfähig wirkt. Der Protagonist übernimmt diese Annahme ausdrücklich. Als die Annahmen in den Anhang wandern und nicht mitgedruckt werden, bleiben nur die Zahlen sichtbar.
+**Thema:** Business Cases sind strukturierte Zukunftsbehauptungen
 
-Wichtig: Das ist noch keine operative Planung. Der Business Case bleibt bewusst grob: Nutzen, Kosten, Skalierung und Betrieb werden in wenigen Szenarien verdichtet. Er beantwortet die Frage, ob das Vorhaben wirtschaftlich plausibel genug wirkt, um weiterverfolgt zu werden. Er beantwortet noch nicht, wie Leads entstehen, welche Kunden wann bestellen, welches Team welche Arbeit trägt oder wie Cash, Umsatz und Ergebnis zeitlich auseinanderlaufen.
+Ein Business Case wird nicht dadurch belastbar, dass er viele Zahlen enthält. Er wird belastbar, wenn seine Annahmen sichtbar, plausibel und angreifbar bleiben.
 
-**Das Prinzip**
+**Warum es für Führung relevant ist**
 
-Ein Business Case ist eine strukturierte Behauptung über die Zukunft. Er wird belastbar, wenn seine Annahmen sichtbar, plausibel und angreifbar bleiben.
+Frühe Business Cases beantworten nicht die Frage, ob die Zukunft sicher ist. Sie beantworten, ob ein Vorhaben wirtschaftlich plausibel genug wirkt, um weiterverfolgt zu werden.
 
-In diesem Kapitel geht es noch nicht um Controlling im engeren Sinn. EBIT, Ergebnisrechnung, Budgetlogik und finanzielle Steuerung kommen später. An dieser Stelle ist wichtiger, eine sinnvolle Kalkulation aufzusetzen und offen zu zeigen, unter welchen Bedingungen sie trägt.
+Operative Planung geht später tiefer: Leads, Bestellungen, Teamkapazität, Cash, Umsatz und Ergebnis. Der frühe Business Case verdichtet Nutzen, Kosten, Skalierung und Betrieb zunächst in Szenarien.
 
-**So wendest du es an**
+**Woran du es erkennst**
+
+Zahlen wirken objektiv, aber die tragenden Annahmen stehen im Anhang, in Fußnoten oder gar nicht mehr im sichtbaren Dokument. Aus einer ehrlichen Schätzung wird dann scheinbare Gewissheit.
+
+**Was du ausprobieren kannst**
 
 Trenne in jedem frühen Business Case konsequent drei Ebenen:
 
@@ -667,13 +679,11 @@ Baue daraus mindestens drei Szenarien:
 
 Formuliere Annahmen so konkret, dass andere sie prüfen können: Menge, Zeitraum, Kostenbasis, Skalierung, Verantwortlichkeit. Verstecke sie nicht in Fußnoten oder Anhängen, wenn sie für das Ergebnis entscheidend sind.
 
-**Worauf du achten solltest**
+**Typische Falle**
 
-Zahlen wirken objektiver als sie sind. Wenn Annahmen verschwinden, verwandelt sich eine ehrliche Schätzung in scheinbare Gewissheit. Genau dort entstehen viele spätere Konflikte.
+Prüfe besonders Annahmen, die "plausibel ambitioniert" klingen. Oft sind genau das die Stellen, an denen aus einer ehrlichen Schätzung eine politische Zielrechnung wird.
 
-Prüfe besonders Annahmen, die plausibel ambitioniert klingen. Oft sind genau das die Stellen, an denen aus einer ehrlichen Schätzung eine politische Zielrechnung wird.
-
-Ein guter früher Business Case muss nicht beweisen, dass die Zukunft sicher ist. Er muss zeigen, welche Zukunft du für wahrscheinlich hältst, welche Risiken du siehst und wie empfindlich dein Ergebnis auf veränderte Annahmen reagiert.
+Ein guter früher Business Case muss zeigen, welche Zukunft du für wahrscheinlich hältst, welche Risiken du siehst und wie empfindlich dein Ergebnis auf veränderte Annahmen reagiert.
 
 **Merksatz**
 

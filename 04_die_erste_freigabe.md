@@ -228,15 +228,22 @@ Wir arbeiten immer noch gleichzeitig. Aber jetzt wenigstens an demselben Vorhabe
 
 ::: Theorie
 
-**Was in der Szene passiert ist**
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-Nach zwei Wochen Arbeit merken wir im Weekly, dass Business, Entwicklung und Produktverständnis auseinanderlaufen. Erst der Versuch, Ziel, Scope und Nicht-Ziele gemeinsam aufzuschreiben, bringt wieder eine gemeinsame Arbeitsgrundlage.
+**Thema:** Der Project Charter ist kein Formular
 
-**Das Prinzip**
+Ein Projekt kann äußerlich genehmigt und innerlich ungeklärt sein. Gerade dann braucht es kein schweres Dokument, sondern eine knappe, gemeinsam getragene Arbeitsgrundlage.
+
+**Warum es für Führung relevant ist**
 
 Ein `Project Charter` ist kein Bürokratie-Dokument für später. Er ist ein früher Alignment-Mechanismus. Besonders wertvoll wird er, wenn ein Vorhaben bereits politisch verkauft wurde und das Team erst danach merkt, dass alle etwas anderes darunter verstanden haben. Der Charter zwingt die Beteiligten, Ziel, Liefergegenstand, Grenzen, Rollen und Erwartungshaltung auf ein gemeinsames Papier zu bringen.
 
-**So wendest du es an**
+**Woran du es erkennst**
+
+Alle nicken, aber jede Funktion arbeitet an einem anderen Bild. Das Management erwartet Fortschritt, die Entwicklung sucht technische Klarheit, das Business verkauft Nutzen, und niemand hat ausdrücklich gesagt, was gerade nicht geliefert wird.
+
+**Was du ausprobieren kannst**
 
 Halte einen frühen Charter bewusst knapp. Für den Anfang reichen oft:
 
@@ -248,7 +255,7 @@ Halte einen frühen Charter bewusst knapp. Für den Anfang reichen oft:
 - Meilensteine: Welche sichtbaren Zwischenergebnisse erwarten wir?
 - Qualitätsanspruch: Woran erkennen wir, dass der nächste Schritt tragfähig ist?
 
-**Worauf du achten solltest**
+**Typische Falle**
 
 Die größte Gefahr ist stillschweigende Uneinigkeit. Wenn Business, Entwicklung und Management unterschiedliche Bilder im Kopf haben, entsteht viel Aktionismus, aber wenig Fortschritt. Noch gefährlicher wird es, wenn eine externe Präsentation diese unterschiedlichen Bilder legitimiert hat. Typische Fehler im Projektmanagement sind:
 
@@ -362,15 +369,15 @@ Vor zwanzig Minuten heißt er noch `Suche zurückbauen`. Dann wird daraus `Entko
 
 Frank nickt sofort.
 
-Joachim sieht mich an. So als hätte er gerade beobachtet, wie schnell man auf die falsche Seite wechseln kann, ohne den Platz zu verlassen.
-
 "Es ist nicht gut", sagt er. "Es ist nur annehmbar."
-
-Ich weiß, dass er es sieht. Das Schlimme ist: Ich sehe es auch. Und trotzdem gefällt mir, wie viel leichter der neue Begriff durch den Raum geht.
 
 Ich schreibe es trotzdem auf.
 
-Der Stift fühlt sich plötzlich zu leicht an. Ich kann eine Grenze verschieben, ohne dass es aussieht wie eine Entscheidung. Ein anderes Wort, ein ruhigerer Begriff, ein Zettel, der weniger wehtut. So einfach geht das.
+Joachim sieht mich an. So als hätte er gerade beobachtet, wie schnell man auf die falsche Seite wechseln kann, ohne den Platz zu verlassen.
+
+Marta sieht mich auch an, kürzer, aber nicht freundlicher. "Ich wusste gar nicht,", sagt sie gerade so laut, dass ich es höre "wie klar du auf Franks Seite bist."
+
+Ich merke, ich kann hier eine Grenze verschieben, ohne dass es aussieht wie eine Entscheidung. Ein anderes Wort, ein ruhigerer Begriff, ein Zettel, der weniger wehtut. So einfach geht das.
 
 Wenn wir auf jede Gefühlsregung von Joachim eingehen, dokumentieren wir morgen noch sauber, warum wir eigentlich gar nichts tun können, sage ich mir. Es klingt vernünftig. Es klingt auch nach jemandem, der gerade froh ist, dass Vernunft und Opportunismus denselben Satz benutzen können.
 
@@ -563,17 +570,22 @@ Aber aus der großen Produktgeschichte ist ein Versuch geworden: klein genug, um
 
 ::: Theorie
 
-**Was in der Szene passiert ist**
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-Die Gruppe hat eine Deadline vor sich: Der Aufsichtsrat erwartet einen Messe-Demonstrator. Frank braucht ein überzeugendes Versprechen, Joachim will keine falsche Erwartung erzeugen, und Marta reduziert beides auf einen überprüfbaren Lernschritt: Messebesucher sortieren Gut- und Schlechtteile vor, der Algorithmus lernt daraus und bewertet anschließend neue Teile.
+**Thema:** Große Versprechen brauchen kleine Lernschritte
 
-**Das Prinzip**
+Wenn ein Vorhaben politisch groß klingt, ist die nächste sinnvolle Lieferung oft überraschend klein. Größe entsteht dann nicht durch mehr Umfang, sondern durch bessere Prüfbarkeit.
+
+**Warum es für Führung relevant ist**
 
 Agile Prinzipien sind besonders nützlich, wenn ein Vorhaben politisch schon groß klingt, fachlich aber noch unsicher ist. Dann hilft es, das Produktversprechen in den kleinsten überprüfbaren Lernschritt zu übersetzen. Ziel ist nicht, möglichst wenig zu liefern. Ziel ist, eine konkrete Annahme so früh wie möglich zu testen.
 
-In der Szene lautet die Annahme: Verstehen Besucher den Nutzen, wenn sie ihr Qualitätswissen selbst in das System einbringen und sofort sehen, wie der Algorithmus daraus lernt?
+**Woran du es erkennst**
 
-**So wendest du es an**
+Demo, Demonstrator, Pilot und Produkt werden in Meetings fast gleich verwendet. Auf Folien klingt das nach Fortschritt. Im Team erzeugt es falsche Erwartungen.
+
+**Was du ausprobieren kannst**
 
 - Trenne die Produktstufen sauber: Demo, Messe-Demonstrator, interner Demonstrator, Pilot, Produkt.
 - Formuliere für die nächste Stufe eine überprüfbare Lernfrage.
@@ -582,11 +594,9 @@ In der Szene lautet die Annahme: Verstehen Besucher den Nutzen, wenn sie ihr Qua
 - Streiche alles, was für die Lernfrage nicht nötig ist.
 - Plane das Feedback ein, bevor du die nächste Produktstufe versprichst.
 
-**Worauf du achten solltest**
+**Typische Falle**
 
-Der häufigste Fehler ist sprachliche Aufblähung. Aus einer Demo wird ein Demonstrator, aus einem Demonstrator ein Pilot, aus einem Pilot ein Produkt. Auf der Folie klingt das nach Fortschritt, im Team erzeugt es falsche Erwartungen.
-
-Gute agile Arbeit macht Unsicherheit sichtbar, statt sie zu verstecken. Der Schnitt muss deshalb schmerzhaft konkret sein: Welche Fehlerbilder zeigen wir? Welche Daten sind echt? Was wird manuell vorbereitet? Welche Aussage dürfen wir nach der Messe wirklich treffen?
+Gute agile Arbeit macht Unsicherheit sichtbar, statt sie zu verstecken. Der Schnitt muss deshalb schmerzhaft konkret sein: Welche Fehlerbilder zeigen wir? Welche Daten sind echt? Was wird manuell vorbereitet? Welche Aussage dürfen wir nach der nächsten Stufe wirklich treffen?
 
 **Merksatz**
 

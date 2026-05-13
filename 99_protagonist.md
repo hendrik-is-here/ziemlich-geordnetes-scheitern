@@ -41,6 +41,7 @@ Schwäche:
 - Erkennt im Hockeystick-Gespräch, dass Frank aus jeder Grenze eine neue Story bauen kann, während er selbst noch versucht, die Grenze fachlich zu verstehen
 - Hält sichtbare Annahmen in einer Datei fälschlich für soziale Absicherung und übersieht, dass ein Verteiler entscheidet, wer widersprechen kann
 - Macht rote Risiken durch Formulierung gelb, ohne lügen zu wollen; gerade dadurch wird seine Rohfassung politisch verwendbar
+- Wird von anderen zunehmend nicht als neutraler Vermittler gelesen, sondern als jemand, der Franks Richtung anschlussfähig macht und erst widerspricht, wenn die Kosten sichtbar werden
 
 Entwicklung im Buch:
 
@@ -67,6 +68,7 @@ Entwicklung im Buch:
 - Erkennt zunehmend, dass die persönliche Konsequenz von Management nicht erst bei Kündigungen beginnt, sondern bei Verteilern, Rollen, Sichtbarkeit und dem Recht, im Raum zu widersprechen
 - Lernt an der Rohfassung, dass _Arbeitsstand_ kein Schutz ist, wenn Frank daraus eine Hans-taugliche Richtung machen kann
 - Muss später verstehen, dass er Marta und Nora nicht schützt, indem er ihre Warnungen kommentiert, wenn er sie nicht in die Abstimmung holt, und dass Joachims Gegenprüfung gar nicht wirken kann, solange er das Gespräch mit ihm vermeidet
+- Wiederkehrender Vorwurf gegen ihn: Er sitzt nicht wirklich zwischen den Lagern. Er wartet, glättet und nennt das Neutralität, bis die Richtung entschieden ist
 
 Typischer Gedanke:
 - "Warum arbeiten eigentlich alle aneinander vorbei?"
@@ -81,3 +83,4 @@ Typischer Gedanke:
 - "Ich bekam Verantwortung in dem Moment, in dem Joachim seine verlor."
 - "Ich schrieb Marta in den Kommentar. Nicht in den Verteiler."
 - "Wenn überall Annahme steht, kann niemand sagen, ich hätte es als Zusage verkauft."
+- "Ich wollte vermitteln. Warum klingt es für alle anderen, als hätte ich nur Franks Richtung sauberer formuliert?"

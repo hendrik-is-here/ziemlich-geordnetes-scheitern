@@ -46,7 +46,7 @@ Manchmal hilft es mir einfach, nicht mit einer leeren Datei starten zu müssen, 
 
 Ich merke, dass ich keine Ahnung habe, was ich tun soll. Ich starre auf die Zelle.
 
-Vielleicht hilft langes Anstarren ja, um zu einer Erkenntnis zu gelangen. Newton saß auch unter einem Apfelbaum und rief irgendwann _Heureka_. Oder war das Sokrates.
+Vielleicht hilft langes Anstarren ja, um zu einer Erkenntnis zu gelangen. Nach fünf Minuten weiß ich nur, dass ich die Geschichte großer Erkenntnisse im Zweifel auch nicht belastbar herleiten könnte.
 
 Mittlerweile ist 08:41.
 
@@ -389,7 +389,7 @@ Marta steht nicht an ihrem Schreibtisch, sondern halb über den Tisch gebeugt. N
 
 "Du stehst gerade zwischen Laborregal und Kabeltrommel. Das ist die technische Variante von Tür und Angel."
 
-Eddy schaut kurz zu mir herüber. "Immerhin persönlich." Ich bin verwirrt, warum Eddy hier ist. Wir hatten ihn eigentlich nicht mehr auf der Mitarbeiterliste im Projekt, aber scheinbar gab es diverse Dinge, die hier passierten, ohne dass jemand weiter oben davon mitbekommen sollte.
+Eddy schaut kurz zu mir herüber. "Immerhin persönlich." Ich bin verwirrt, warum Eddy hier ist. Offiziell steht er nicht mehr auf der Mitarbeiterliste des Projekts. Inoffiziell holt Marta ihn offenbar noch immer dazu, wenn ein technisches Problem gefährlich genug ist und niemand weiter oben wissen muss, wie die Lösung zustande kam.
 
 Marta richtet sich auf und nimmt den Schraubendreher vom Tisch, so wie manche Menschen einen Stift in die Hand nehmen, wenn sie nachdenken. Marta bevorzugt offenbar Werkzeuge gegenüber Schreibutensilien. "Was brauchst du?"
 
@@ -995,7 +995,7 @@ Ich sehe auf die gelbe Zelle. Dann auf die Nachricht. Dann wieder auf die gelbe 
 
 Ich antworte Frank: _Es gibt da ein Problem._
 
-## Der Hockeystick 
+## Der Hockey-Stick
 
 Frank antwortet nicht auf meine Nachricht.
 
@@ -1115,7 +1115,7 @@ Der Satz ist so beiläufig, dass ich im ersten Moment glaube, ihn falsch verstan
 
 "Mit dem Rückenwind aus der Benton-&-Cale-Studie werden wir das durchgeboxt bekommen. Lass das mal mein Problem sein", wiegelt Frank ab.
 
-Ich merke, dass ich meine Hände zu Fäusten geballt habe. Ich versuche mich etwas zu entspannen, einen Schritt zurück zu gehen: "Dieser Hockeystick ist doch nur eine andere Art zu sagen, dass wir am Anfang Kosten verstecken und später Wachstum behaupten", versuche ich noch einmal Frank umzustimmen.
+Ich merke, dass ich meine Hände zu Fäusten geballt habe. Ich versuche mich etwas zu entspannen, einen Schritt zurück zu gehen: "Dieser Hockey-Stick ist doch nur eine andere Art zu sagen, dass wir am Anfang Kosten verstecken und später Wachstum behaupten", versuche ich noch einmal Frank umzustimmen.
 
 "Wir verstecken nichts." Frank wird jetzt leiser. "Wir erklären, warum der Anfang teuer ist und warum sich das danach lohnt."
 
@@ -1165,7 +1165,7 @@ Ich bleibe stehen und sehe ihm nach. In meiner Tabelle gibt es jetzt drei Farben
 
 Ich setze mich wieder hin und speichere eine neue Version der Datei.
 
-_Hockeystick.xlsx_
+_Hockey-Stick.xlsx_
 
 In die erste Zeile schreibe ich:
 
@@ -1378,7 +1378,7 @@ Darunter: _Arbeitsstand zur Ausarbeitung der Entscheidungsunterlage_.
 
 Was Frank aus meiner Datei gemacht hat, sieht sauber aus. Zu sauber. Die gelben Zellen sind verschwunden. Stattdessen gibt es kleine Fußnoten in hellgrau. Die Seite _Nicht abgestimmte Punkte_ ist nicht mehr gut sichtbar, sondern unscheinbar als _OPL_ getarnt. Die beiden Varianten heißen nicht mehr konservativ und Zielbild. Sie heißen _Basisfall_ und _Skalierungsfall_.
 
-Ich starre auf den Begriff _Skalierungsfall_ und merke, dass er deutlich freundlicher klingt als _Hockeystick_.
+Ich starre auf den Begriff _Skalierungsfall_ und merke, dass er deutlich freundlicher klingt als _Hockey-Stick_.
 
 "Ich habe die Richtung in den letzten Tagen immer wieder mit Hans gespiegelt", sagt Frank und stellt sich neben den Bildschirm, als hätte er nicht nur eine Datei geöffnet, sondern eine Tür. "Die gute Nachricht ist: Wir haben Rückenwind. Hans sieht den strategischen Charme und will, dass wir die Skalierungsoption entscheidungsfähig ausarbeiten."
 
@@ -1419,6 +1419,10 @@ Marta sieht mich an. Es ist ein lauter Blick. Voller Vorwürfe.
 "Ja. Über Lernschritte. Nicht über eine Entscheidungsunterlage für Hans."
 
 Nora legt den Stift ab. "Geht mir ähnlich. Ihr habt unsere Einwände genommen und daraus eure Handlungsfähigkeit gebaut."
+
+"Das ist nicht fair", sage ich.
+
+"Vielleicht nicht", sagt Nora. "Aber bei Frank nennst du es Vision. Bei uns nennst du es Annahme."
 
 Frank hebt eine Hand, nicht beschwichtigend, eher ordnend. "Lasst uns bitte bei den Fakten bleiben. Niemand hat eure Beiträge als Zusage verkauft."
 
@@ -1664,22 +1668,40 @@ Nicht wegen des Telefons, sage ich mir sofort. Wegen der Rolle. Wegen des Signal
 Dann denke ich an Marta und Nora, an den Workshop und an Joachims Namen, den ich aus der Mail gelöscht habe. Das alte Telefon liegt plötzlich schwerer in meiner Hand als vorher.
 
 ::: Theorie
-**Was in der Szene passiert ist**: Der Protagonist hat eine Rohfassung als Arbeitsstand verstanden. Frank hat dieselbe Datei als Richtung nach oben genutzt. Marta und Nora hören darin keine offene Abstimmung, sondern eine bereits wirksame Festlegung ihrer Beiträge. Erst als Nora die Botschaft in ihre vier Seiten zerlegt, kann die Gruppe von gegenseitiger Rechtfertigung zu konkreten Unterstützungsbedarfen wechseln: Sponsor-Review, Marktzugang, Marketing, Architektur, Legal, Finance und sichtbare Annahmenverantwortung.
 
-**Das Prinzip**: Nach Friedemann Schulz von Thuns Vier-Seiten-Modell hat jede Nachricht mehrere Seiten: 
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-1. Sachinhalt
-2. Selbstoffenbarung
-3. Beziehung
-4. Appell
+**Thema:** Jede Botschaft hat mehrere Seiten
 
-In Konflikten streiten Menschen oft nicht über dieselbe Seite. Der Sender verteidigt seine Absicht auf der Sachebene, während die Empfänger auf der Beziehungs- oder Appellebene reagieren.
+Nach Friedemann Schulz von Thuns Vier-Seiten-Modell enthält jede Nachricht mehrere Ebenen: Sachinhalt, Selbstoffenbarung, Beziehung und Appell. In Konflikten reden Menschen häufig über verschiedene Seiten derselben Botschaft.
 
-**So wendest du es an**: Wenn ein Workshop eskaliert, stoppe die Rechtfertigungsschleife und zerlege die Botschaft. Frage nacheinander: Was steht sachlich da? Was sagt die Unterlage über den Sender? Was kommt auf der Beziehungsebene bei den Beteiligten an? Welcher Appell entsteht daraus für Entscheider, Teams oder Kunden? Übersetze die Antworten danach in Arbeit: Welche Annahme trägt wer, welche externe Hilfe wird gebraucht, welche Entscheidung muss ein Sponsor treffen?
+**Warum es für Führung relevant ist**
 
-**Worauf du achten solltest**: Das Modell entschuldigt keine schlechte Kommunikation. Es hilft nur, sie sortierbar zu machen. Wer eine Unterlage exklusiv nach oben gibt, bleibt für die Wirkung verantwortlich, auch wenn die eigene Absicht harmloser war.
+Der Sender verteidigt oft seine Absicht auf der Sachebene, während die Empfänger auf der Beziehungs- oder Appellebene reagieren. Dadurch entsteht eine Rechtfertigungsschleife: "So war es nicht gemeint" trifft auf "So ist es aber angekommen".
 
-**Merksatz**: Jede Botschaft hat vier Ebenen, auf denen sie wirkt.
+**Woran du es erkennst**
+
+Formulierungen wie "Das steht da doch gar nicht", "Das war nur ein Arbeitsstand" oder "Jetzt ist es trotzdem gesetzt" zeigen, dass verschiedene Ebenen gleichzeitig wirken. Der Streit wird erst lösbar, wenn sie getrennt betrachtet werden.
+
+**Was du ausprobieren kannst**
+
+Wenn ein Workshop eskaliert, stoppe die Rechtfertigungsschleife und zerlege die Botschaft:
+
+- Sachinhalt: Was steht tatsächlich da?
+- Selbstoffenbarung: Was sagt die Unterlage über den Sender?
+- Beziehung: Was kommt bei den Beteiligten an?
+- Appell: Was sollen Entscheider, Teams oder Kunden daraus tun?
+
+Übersetze die Antworten danach in Arbeit: Welche Annahme trägt wer, welche externe Hilfe wird gebraucht, welche Entscheidung muss ein Sponsor treffen?
+
+**Typische Falle**
+
+Das Modell entschuldigt keine schlechte Kommunikation. Es hilft nur, sie sortierbar zu machen. Wer eine Unterlage exklusiv nach oben gibt, bleibt für die Wirkung verantwortlich, auch wenn die eigene Absicht harmloser war.
+
+**Merksatz**
+
+Jede Botschaft hat vier Ebenen, auf denen sie wirkt.
 :::
 
 ## Joachim muss zurück
@@ -1780,9 +1802,13 @@ Drüben im Labor fällt etwas Metallisches auf den Boden. Jemand flucht leise. E
 
 Ich nicke.
 
-Das Wort _profitiert_ ist unangenehm genau. Es enthält Frank, die Datei, den Workshop, Yvonnes iPhone und diesen kleinen  Moment, in dem ich mich trotz allem gefreut habe, dass jemand meinen Namen mit einer neuen Rolle verbindet.
+Das Wort _profitiert_ ist unangenehm genau. Es enthält Frank, die Datei, den Workshop, Yvonnes iPhone und diesen kleinen Moment, in dem ich mich trotz allem gefreut habe, dass jemand meinen Namen mit einer neuen Rolle verbindet.
 
 "Ja", sage ich.
+
+Joachim schaut auf die beiden Klötze. "Du bist nicht neutral. Du wartest nur lange genug, bis klar ist wer gewinnt und machst dann eine kluge Beobachtung."
+
+Ich will widersprechen, aber mir fehlen die Argumente. Ich zucke zögerlich mit den Schultern. 
 
 Joachim schnaubt. "Das ist wenigstens nicht völlig blöd."
 
@@ -1945,13 +1971,35 @@ Ich stecke die Holzklötze wieder ein.
 "Gut", sagt Joachim. "Dann erkennt man wenigstens noch, wo sie ehrlich ist."
 
 ::: Theorie
-**Was in der Szene passiert ist**: Der Protagonist braucht Joachim fachlich für die Gegenprüfung der Wirtschaftsplanung. Auf der Sachebene ist der Auftrag klar: Annahmen prüfen, Risiken sichtbar machen, falsche Sicherheit verhindern. Auf der Beziehungsebene ist Joachim jedoch übergangen worden. Er soll nicht nur nachträglich prüfen, sondern wieder als jemand sichtbar werden, der das Projekt voranbringt.
 
-**Das Prinzip**: In schwierigen Gesprächen wirken Sachebene und Beziehungsebene gleichzeitig. Die Sachebene fragt: Worum geht es fachlich? Die Beziehungsebene fragt: Was sagt dein Verhalten darüber, wie du mich siehst, einbindest oder behandelst? Wer nur die Sache klärt, kann formal recht haben und trotzdem keine Arbeitsfähigkeit herstellen.
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-**So wendest du es an**: Trenne im Gespräch sichtbar, worüber ihr redet. Benenne zuerst den sachlichen Bedarf: "Ich brauche deine Prüfung, weil..." Benenne danach die Beziehungsbotschaft: "Ich sehe, dass du übergangen wurdest." Kläre anschließend, was sich im Umgang ändern muss: Wer wird vorher eingebunden, wer wird sichtbar genannt, wer gilt als Bremser und wer als jemand, der das Vorhaben tragfähiger macht?
+**Thema:** Sache klären reicht nicht, wenn Beziehung beschädigt ist
 
-**Worauf du achten solltest**: Die Beziehungsebene anzuerkennen ist keine Therapie und auch kein pauschales Schuldeingeständnis. Es ist ein Mittel, um wieder arbeitsfähig zu werden. Vermeide dabei falsche Harmonie. Wertschätzung wirkt nur, wenn sich danach auch die Rolle verändert, nicht nur der Ton.
+In schwierigen Gesprächen wirken Sachebene und Beziehungsebene gleichzeitig. Die Sachebene fragt: Worum geht es fachlich? Die Beziehungsebene fragt: Was sagt dein Verhalten darüber, wie du mich siehst, einbindest oder behandelst?
 
-**Merksatz**: Sachfragen werden selten lösbar, solange die Beziehungsebene ungeklärt dagegenarbeitet.
+**Warum es für Führung relevant ist**
+
+Wer nur die Sache klärt, kann formal recht haben und trotzdem keine Arbeitsfähigkeit herstellen. Besonders heikel wird es, wenn jemand erst übergangen und später wegen seiner Expertise zurückgeholt wird.
+
+**Woran du es erkennst**
+
+Eine formal richtige Bitte wird als nachträgliche Instrumentalisierung gehört. Der andere reagiert nicht auf den Auftrag, sondern auf die Geschichte, die davor passiert ist.
+
+**Was du ausprobieren kannst**
+
+Trenne im Gespräch sichtbar, worüber ihr redet:
+
+- Benenne den sachlichen Bedarf: "Ich brauche deine Prüfung, weil..."
+- Benenne die Beziehungsbotschaft: "Ich sehe, dass du übergangen wurdest."
+- Kläre die Rollenänderung: Wer wird vorher eingebunden, wer wird sichtbar genannt, wer gilt als Bremser und wer als jemand, der das Vorhaben tragfähiger macht?
+
+**Typische Falle**
+
+Die Beziehungsebene anzuerkennen ist keine Therapie und auch kein pauschales Schuldeingeständnis. Es ist ein Mittel, um wieder arbeitsfähig zu werden. Wertschätzung wirkt nur, wenn sich danach auch die Rolle verändert, nicht nur der Ton.
+
+**Merksatz**
+
+Sachfragen werden selten lösbar, solange die Beziehungsebene ungeklärt dagegenarbeitet.
 :::

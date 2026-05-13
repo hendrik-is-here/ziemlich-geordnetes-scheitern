@@ -490,17 +490,24 @@ Stattdessen folge ich Frank, weil man Türen nicht lange offen hält, wenn man e
 
 ::: Theorie
 
-**Was in der Szene passiert ist**
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-Aus einem funktionierenden Messe-Demonstrator wird im Steuerkreis eine Plattformoption. Hans formuliert OPL-Punkte, Frank macht daraus eine strategische Geschichte. Joachim bleibt fachlich wichtig, verliert aber schon vor dem Termin den Platz im Steuerkreis, weil Frank ihm nach der Auto-Szene nicht mehr zutraut, dort das Richtige zu sagen. Marta protestiert nicht offen, reduziert ihre Antworten aber auf technische Ja-Nein-Aussagen. Der Protagonist rückt nach, weil Frank ihm vertraut und weil er die wirtschaftliche Erzählung bauen kann.
+**Thema:** Wer nicht im Raum ist, wird zur Annahme
 
-**Das Prinzip**
+Entscheidungen entstehen nicht nur durch Argumente, sondern durch Zugang. Wer sprechen darf, welche Risiken im Hauptteil stehen und welche Stimmen in die Vorbereitung verlagert werden, prägt das Ergebnis oft stärker als die eigentliche Folie.
+
+**Warum es für Führung relevant ist**
 
 Entscheidungsrunden entscheiden nicht nur über Inhalte. Sie entscheiden auch darüber, welche Stimmen im Raum sind. Wer Risiken kennt, wird oft in die Vorbereitung geschoben. Wer die Geschichte anschlussfähig macht, bekommt Zugang zur Entscheidung.
 
 Das ist gefährlich, aber nicht automatisch falsch. Komplexität muss für ein Entscheidungsgremium verdichtet werden. Problematisch wird es, wenn Verdichtung zur Ausblendung wird.
 
-**So wendest du es an**
+**Woran du es erkennst**
+
+Teilnehmerlisten werden "fokussiert". Kritische Fachleute liefern Input, sind aber in der Entscheidung nicht mehr anwesend. Aus offenen Fragen werden OPL-Punkte, und aus fehlenden Entscheidungen wird scheinbarer Fortschritt.
+
+**Was du ausprobieren kannst**
 
 - Kläre vor jeder wichtigen Entscheidungsrunde, wer im Raum ist, wer nur vorbereitet und wer später mit den Folgen leben muss.
 - Halte technische, wirtschaftliche und organisatorische Annahmen sichtbar im Hauptteil, nicht nur im Anhang.
@@ -508,7 +515,7 @@ Das ist gefährlich, aber nicht automatisch falsch. Komplexität muss für ein E
 - Prüfe, ob eine schlankere Teilnehmerliste wirklich Fokus schafft oder kritische Perspektiven entfernt.
 - Dokumentiere, welche Annahmen von welchen Fachpersonen stammen.
 
-**Worauf du achten solltest**
+**Typische Falle**
 
 Ein sauberes Entscheidungspapier kann politisch erfolgreich und fachlich gefährlich zugleich sein. Besonders kritisch ist der Moment, in dem die Person mit dem stärksten Realitätskontakt aus der Entscheidungsrunde verschwindet.
 

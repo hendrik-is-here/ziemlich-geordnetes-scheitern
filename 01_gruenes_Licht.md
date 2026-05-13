@@ -71,6 +71,8 @@ Frank legt eine Hand auf die Tischkante und schaut kurz aus dem Fenster, als lie
 
 Frank ist nie unglücklich darüber, eine fertige Wahrheit vorzufinden, solange man sie mit ausreichend Zukunft versehen kann.
 
+Die Schichtplanung ist nicht das Produkt. Sie ist Franks Eintrittskarte zu Eddy: ein Thema, an dem Eddy seit Monaten zeigt, dass aus Produktionsdaten mehr werden kann als ein weiterer Bericht für den Monatsabschluss. Wenn Frank von Schichtplanung spricht, meint er selten nur Schichtplanung. Er meint alles, was Eddy vorbereitet hat und das sich vielleicht rechtzeitig in eine Messegeschichte verwandeln lässt.
+
 Ich nicke. "Klar. Ich rufe ihn an."
 
 Eddy geht nicht ran.
@@ -303,40 +305,39 @@ Ich nehme die Ausdrucke. Nicht weil Eddy mich überzeugt hat. Weil Frank mich an
 
 ::: Theorie
 
-**Was in der Szene passiert ist**
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-Eddy hat versucht, uns zu zwingen, "den Markt" in konkrete Menschen, Rollen und Interessen zu zerlegen. Frank und ich wollten dagegen eine breite Messe-Story, die schnell genug wirkt, um das Thema am Leben zu halten. Die Stakeholder-Analyse entsteht deshalb nicht aus Einsicht, sondern aus Widerstand gegen eine zu bequeme Geschichte. Eddy sieht das strukturelle Problem früh, macht es uns aber so scharf vor, dass wir uns zuerst verteidigen statt lernen.
+**Thema:** Stakeholder sind keine Kästchen im Organigramm
 
-**Das Prinzip**
+Wenn Vorhaben unklar werden, sprechen Teams gern über "den Markt", "die IT" oder "das Management". Führung beginnt dort, wo aus diesen Sammelbegriffen konkrete Menschen mit Interessen, Ängsten, Einfluss und Nebenbedingungen werden.
 
-Eine **Stakeholder-Analyse** macht aus einem diffusen Umfeld konkrete Beteiligte. Sie zeigt, wer ein Problem hat, wer Nutzen erwartet, wer entscheidet, wer bezahlt und wer blockieren kann.
+**Warum es für Führung relevant ist**
 
-**So wendest du sie an**
+Eine Stakeholder-Analyse zeigt, wer ein Problem hat, wer Nutzen erwartet, wer entscheidet, wer bezahlt und wer blockieren kann. Sie verhindert, dass ein Vorhaben nur für eine abstrakte Zielgruppe gebaut wird, die in Wirklichkeit nie gemeinsam in einem Raum sitzt.
+
+**Woran du es erkennst**
+
+Typische Warnsignale sind Sätze wie "der Kunde will", "die IT muss", "das Management erwartet" oder "der Markt versteht". In solchen Formulierungen verschwinden die eigentlichen Beteiligten.
+
+**Was du ausprobieren kannst**
 
 Schreibe zuerst alle Rollen auf, die mit deiner Idee zu tun haben könnten: Nutzer, Entscheider, Budgetgeber, Einkauf, IT, Vertrieb, Betrieb, Management und mögliche Gegner.
 
-Ordne danach jede Rolle entlang von vier Fragen:
+Ordne jede Rolle entlang von vier Fragen:
 
 - Was will diese Person oder Rolle gewinnen?
 - Was kann sie verlieren?
 - Wie viel Einfluss hat sie?
 - Was muss passieren, damit sie dein Vorhaben unterstützt?
 
-Markiere anschließend drei Gruppen:
+Markiere anschließend Unterstützer, Skeptiker und Blockierer.
 
-- Unterstützer: Wer profitiert sichtbar?
-- Skeptiker: Wer trägt Risiko oder Aufwand?
-- Blockierer: Wer kann das Vorhaben stoppen oder verzögern?
+**Typische Falle**
 
-**Worauf du achten solltest**
+Verwechsle offizielle Entscheidungsmacht nicht mit tatsächlichem Einfluss. Assistenzen, Fachexperten, Controlling oder IT-Security prägen Entscheidungen oft früher als die eigentlichen Entscheider.
 
-Verwechsle Organisationseinheiten nicht mit Menschen. "Der Markt", "die IT" oder "das Management" entscheiden nichts. Menschen entscheiden - mit Interessen, Ängsten und Anreizen.
-
-Achte außerdem auf informelle Macht. Nicht jeder, der offiziell entscheidet, prägt die Entscheidung am stärksten. Oft beeinflussen Assistenzen, Fachexperten, Controlling oder IT-Security den Ausgang früher als die eigentlichen Entscheider.
-
-Stakeholder-Analyse ist keine moralisch neutrale Übung. Wer versteht, was andere gewinnen oder verlieren können, kann besser helfen, aber auch besser manipulieren.
-
-Achte auch auf den Ton, in dem Analyse angeboten wird. Eine richtige Analyse kann politisch wirkungslos werden, wenn sie vor allem als Bloßstellung ankommt. Wer andere überzeugen will, muss ihnen einen Weg aus dem Irrtum zeigen, nicht nur den Irrtum selbst.
+Stakeholder-Analyse ist außerdem keine moralisch neutrale Übung. Wer Interessen versteht, kann besser helfen, aber auch besser manipulieren. Achte deshalb nicht nur auf die Analyse, sondern auch auf den Ton, in dem du sie anbietest.
 
 **Merksatz**
 
@@ -799,17 +800,24 @@ Nur hatte ich nicht gemerkt, was ich gestaltete.
 
 ::: Theorie
 
-**Was in der Szene passiert ist**
+**Leadership-Nugget der Woche**
+_Corporate Learning & Leadership Enablement_
 
-Kurz vor dem Messeauftritt fehlten Modell und Technik. Unter Druck baute ich eine Demo, die mehr Automatisierung suggerierte, als wir zeigen konnten. Eddy erkannte den Bruch zwischen Story, Bildschirm und Modell, wurde aber übergangen. Erst eine Detailfrage machte sichtbar, dass unser Versprechen nicht zu unserer eigenen Darstellung passte.
+**Thema:** Fachliche Einwände sind ein Frühwarnsystem
 
-**Das Prinzip**
+Wertschätzung ist keine weiche Zusatzleistung. Sie ist eine Voraussetzung dafür, dass Fachleute rechtzeitig widersprechen, bevor Außenwirkung wichtiger wird als Wahrheit.
 
-Wertschätzung ist keine weiche Zusatzleistung. Sie ist eine Voraussetzung dafür, dass Fachleute rechtzeitig widersprechen. Wenn Expertinnen und Experten erleben, dass ihre Einwände als Störung, Pedanterie oder mangelnder Wille behandelt werden, sagen sie irgendwann weniger. Dann verschwinden Risiken nicht. Sie wandern nur in die Außenwirkung.
+**Warum es für Führung relevant ist**
 
-**So wendest du es an**
+Wenn Expertinnen und Experten erleben, dass Einwände als Störung, Pedanterie oder mangelnder Wille behandelt werden, sagen sie irgendwann weniger. Risiken verschwinden dadurch nicht. Sie wandern nur in die Außenwirkung, in Kundenversprechen oder in spätere Eskalationen.
 
-Wenn eine Situation kippt, kläre zuerst drei Dinge:
+**Woran du es erkennst**
+
+Kritische Fachleute werden als "Bremser" beschrieben. Teams sagen "das erklären wir später". Demos, Folien oder Pitches behaupten mehr, als das System, der Prozess oder das Produkt tatsächlich zeigen kann.
+
+**Was du ausprobieren kannst**
+
+Kläre vor externen Aussagen drei Dinge:
 
 - Was zeigen wir wirklich?
 - Was behaupten wir nur sprachlich?
@@ -817,15 +825,13 @@ Wenn eine Situation kippt, kläre zuerst drei Dinge:
 
 Gib technischen und fachlichen Einwänden einen festen Platz, bevor eine Aussage nach außen geht. Frage nicht nur: "Klingt das gut?", sondern auch: "Was daran würden wir einem Experten ungern erklären?"
 
-Trenne außerdem Tempo und Übergehen. Unter Zeitdruck darf man vereinfachen. Man darf aber nicht so tun, als sei eine Vereinfachung schon dieselbe Wahrheit.
+**Typische Falle**
 
-**Worauf du achten solltest**
-
-Unter Stress wirken kritische Fachleute schnell wie Bremser. Oft sind sie die Einzigen, die noch sehen, wo Darstellung und Realität auseinanderlaufen. Wer sie zu früh übergeht, gewinnt manchmal den nächsten Morgen und verliert die Glaubwürdigkeit danach.
+Unter Stress wirken kritische Fachleute schnell wie Menschen, die "noch ein Problem" sehen. Oft sind sie die Einzigen, die den Bruch zwischen Darstellung und Realität noch erkennen.
 
 Vermeide falsche Harmonie. Wertschätzung heißt nicht, jeden Einwand endlos zu diskutieren. Sie heißt, deutlich zu machen, dass ein sauberer Widerspruch erwünscht ist und Konsequenzen hat.
 
-Umgekehrt müssen kritische Fachleute ihren Widerspruch so einbringen, dass daraus noch Handlung entstehen kann. Wer erst spät, scharf oder vor Publikum korrigiert, hat vielleicht recht und verliert trotzdem Einfluss. Gute Warnungen brauchen Timing, Respekt und eine brauchbare nächste Option.
+Umgekehrt müssen kritische Fachleute ihren Widerspruch so einbringen, dass daraus noch Handlung entstehen kann. Gute Warnungen brauchen Timing, Respekt und eine brauchbare nächste Option.
 
 **Merksatz**
 
